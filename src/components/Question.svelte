@@ -21,6 +21,10 @@
     </div>  
     {/each}
     {#if givenAnswer != ""}
-        <p>{givenAnswer === correctAnswer ? "Correct" : "no"}</p>
+        {#if givenAnswer === correctAnswer}
+            <p class="font-bold text-green-600">Correct</p>
+        {:else}
+            <p class="font-bold text-red-600">Wrong</p>
+        {/if}
     {/if}
 </div>

@@ -9,23 +9,31 @@
   let numRandomQuest = data.questions.length / 2
 
 
-  function getRandomInt(min, max) {
-    // The Math.floor() function returns the largest integer less than or equal to a given number.
-    // The Math.random() function returns a floating-point, pseudo-random number in the range [0, 1).
-    // By multiplying the random number by the range and adding the minimum, we get a random integer in the desired range.
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+  function getRandomIntSet(size, min, max){
+    let nums = []
+
+    let counter = 0
+
+    while (counter < size) {
+      let n = Math.floor(Math.random() * (max - min + 1)) + min;
+      if (!nums.includes(n)){
+        nums.push(n)
+        counter++;
+      }
+    }
+
+    return nums
   }
   
   function start_test() {
     questions = []
-    for (let i = 0; i < numRandomQuest; i++) {
-      let index = getRandomInt(0, data.questions.length - 1)
-      console.log(index)
-      console.log(data.questions[index])
-      questions.push(data.questions[index])
+    let nums = getRandomIntSet(numRandomQuest, 0, data.questions.length - 1)
+
+    for (let n of nums) {
+      questions.push(data.questions[n])
     }
     console.log(questions)
-    started = !started
+    started = true
   }
 </script>
 
