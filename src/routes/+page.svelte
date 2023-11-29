@@ -86,7 +86,7 @@
     <p class="text-sm font-bold">NB: answers can be wrong</p>
 
   </div>
-  <h1 class="text-3xl font-bold">Questions</h1>
+  <h1 class="text-3xl font-bold">Test</h1>
   <div class="flex flex-col gap-y-5">
     {#if !started}
     <h3 class="text-center">Click the button to get {numRandomQuest} random questions between n.{minQ} and n.{maxQ}</h3>
