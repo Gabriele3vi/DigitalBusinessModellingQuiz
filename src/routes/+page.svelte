@@ -8,7 +8,7 @@
   let questions = []
   let numRandomQuest = data.questions.length / 2
 
-
+  //questo metodo ritorna una lista di interi random diversi di lunghezza data nel range [min, max]
   function getRandomIntSet(size, min, max){
     let nums = []
 
@@ -55,7 +55,7 @@
     {#if !started}
     <h3>Questions will be displayed here</h3>
     {:else}
-     {#each questions as q}
+     {#each questions as q (q.qnumber)}
       <Question {...q}/>
      {/each}
 
