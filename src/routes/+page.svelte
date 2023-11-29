@@ -12,6 +12,7 @@
   let minQ = 1
   let errorMsg = ""
 
+
   //questo metodo ritorna una lista di interi random diversi di lunghezza data nel range [min, max]
   function getRandomIntSet(size, min, max){
     let nums = []
@@ -31,6 +32,7 @@
   
   function start_test() {
     questions = []
+    
     if ((maxQ - minQ +1) < numRandomQuest) {
       errorMsg = "Range size must be bigger than the number of questions"
       return
@@ -47,7 +49,9 @@
     for (let n of nums) {
       questions.push(data.questions[n])
     }
+
     started = true
+
     buttonMsg = "Change questions"
   }
 </script>
@@ -89,9 +93,10 @@
   <h1 class="text-3xl font-bold">Test</h1>
   <div class="flex flex-col gap-y-5">
     {#if !started}
-    <h3 class="text-center">Click the button to get {numRandomQuest} random questions between n.{minQ} and n.{maxQ}</h3>
+    <h3 class="text-center italic">Click the button to get {numRandomQuest} random questions between n.{minQ} and n.{maxQ}</h3>
+    
     {:else}
-     {#each questions as q (q.qnumber)}
+     {#each questions as q (q.qnumber * Math.random())}
       <Question {...q}/>
      {/each}
     {/if}

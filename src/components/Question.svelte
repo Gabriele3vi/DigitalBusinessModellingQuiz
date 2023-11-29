@@ -1,10 +1,13 @@
 <script>
+    import { shuffle } from "../lib/utils"
     export let qnumber;
     export let question; 
     export let answers;
     export let correctAnswer;
+
     let givenAnswer = ""
-    let id = qnumber * Math.random()
+    
+    answers = shuffle(answers)
 
     if (givenAnswer == correctAnswer) console.log("correct")
     let showCorrect = false
