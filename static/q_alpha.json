@@ -1,0 +1,75 @@
+{ "questions":[
+    {
+        "qnumber": 1,
+        "question": "According to the framework that defines product innovations, there is an incremental innovation when:",
+        "answers": [
+            "Architecture Relations are altered, and Knowledge Components are substituted", 
+            "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
+            "Architecture Relations are unchanged, and Knowledge Components are substituted", 
+            "Architecture Relations are altered, and Knowledge Components are reinforced"],
+        "correctAnswer": "Architecture Relations are unchanged, and Knowledge Components are reinforced"
+    },
+    {
+        "qnumber": 2,
+        "question": "According to the framework that defines product innovations, there is an architectural innovation when:",
+        "answers": ["Architecture Relations are altered, and Knowledge Components are substituted", 
+        "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
+        "Architecture Relations are unchanged, and Knowledge Components are substituted", 
+        "Architecture Relations are altered, and Knowledge Components are reinforced"],
+        "correctAnswer": "Architecture Relations are altered, and Knowledge Components are reinforced"
+    },
+    {
+        "qnumber": 3,
+        "question": "According to the framework that defines product innovations, there is an modular innovation when:",
+        "answers": ["Architecture Relations are altered, and Knowledge Components are substituted", 
+        "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
+        "Architecture Relations are unchanged, and Knowledge Components are substituted", 
+        "Architecture Relations are altered, and Knowledge Components are reinforced"],
+        "correctAnswer": "Architecture Relations are unchanged, and Knowledge Components are substituted"
+    },
+    {
+        "qnumber": 4,
+        "question": "According to the framework that defines product innovations, there is an radical innovation when:",
+        "answers": ["Architecture Relations are altered, and Knowledge Components are substituted", 
+        "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
+        "Architecture Relations are unchanged, and Knowledge Components are substituted", 
+        "Architecture Relations are altered, and Knowledge Components are reinforced"],
+        "correctAnswer": "a. Architecture Relations are altered, and Knowledge Components are substituted"
+    },
+    {
+        "qnumber": 5,
+        "question": "In the competitive strategy, the question “Who are our customers?” is connected to the following strategic dimension:",
+        "answers": ["Customer intimacy", "Product leadership", "Operational excellence", "It is connected to all of them"],
+        "correctAnswer": "Customer intimacy"
+    },
+    {
+        "qnumber": 6,
+        "question": "In the competitive strategy, the question “What do we offer them?” is connected to the following strategic dimension:",
+        "answers": ["Customer intimacy", "Product leadership", "Operational excellence", "It is connected to all of them"],
+        "correctAnswer": "Product leadership"
+    },
+    {
+        "qnumber": 7,
+        "question": "In the competitive strategy, the question “How can we deliver it effectively and efficiently?” is connected to the following strategic dimension:",
+        "answers": ["Customer intimacy", "Product leadership", "Operational excellence", "It is connected to all of them"],
+        "correctAnswer": "Operational excellence"
+    },
+    {
+        "qnumber": 8,
+        "question": "Which of these is not a source of strategic innovation?",
+        "answers": ["Design-Driven innovation", "Technology Push innovation", "Market Pull innovation", "Data-Driven innovation"],
+        "correctAnswer": "Data-Driven innovation"
+    },
+    {
+        "qnumber": 9,
+        "question": "Defining the target market and identifying consumer unfulfilled needs allows companies to pursue a:",
+        "answers": ["Desgin-Driven innovation", "Technology Push innovation", "Market Pull innovation", "None of them"],
+        "correctAnswer": "Market Pull innovation"
+    },
+    {
+        "qnumber": 10,
+        "question": "Developing innovative products or services and providing a unique meaning to existing goods enables companies to pursue a:",
+        "answers": ["Desgin-Driven innovation", "Technology Push innovation", "Market Pull innovation", "None of them"],
+        "correctAnswer": "Design-Driven innovation"
+    }]
+}

@@ -5,8 +5,9 @@
 
   export let data
 
+
   let questions = []
-  let numRandomQuest = data.questions.length / 2
+  let numRandomQuest = 15
 
   //questo metodo ritorna una lista di interi random diversi di lunghezza data nel range [min, max]
   function getRandomIntSet(size, min, max){
@@ -32,7 +33,6 @@
     for (let n of nums) {
       questions.push(data.questions[n])
     }
-    console.log(questions)
     started = true
   }
 </script>

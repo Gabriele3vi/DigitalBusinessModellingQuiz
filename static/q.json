@@ -3,73 +3,2366 @@
         "qnumber": 1,
         "question": "According to the framework that defines product innovations, there is an incremental innovation when:",
         "answers": [
-            "Architecture Relations are altered, and Knowledge Components are substituted", 
-            "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
-            "Architecture Relations are unchanged, and Knowledge Components are substituted", 
-            "Architecture Relations are altered, and Knowledge Components are reinforced"],
+            "Architecture Relations are altered, and Knowledge Components are substituted",
+            "Architecture Relations are unchanged, and Knowledge Components are reinforced",
+            "Architecture Relations are unchanged, and Knowledge Components are substituted",
+            "Architecture Relations are altered, and Knowledge Components are reinforced"
+        ],
         "correctAnswer": "Architecture Relations are unchanged, and Knowledge Components are reinforced"
     },
     {
         "qnumber": 2,
         "question": "According to the framework that defines product innovations, there is an architectural innovation when:",
-        "answers": ["Architecture Relations are altered, and Knowledge Components are substituted", 
-        "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
-        "Architecture Relations are unchanged, and Knowledge Components are substituted", 
-        "Architecture Relations are altered, and Knowledge Components are reinforced"],
+        "answers": [
+            "Architecture Relations are altered, and Knowledge Components are substituted",
+            "Architecture Relations are unchanged, and Knowledge Components are reinforced",
+            "Architecture Relations are unchanged, and Knowledge Components are substituted",
+            "Architecture Relations are altered, and Knowledge Components are reinforced"
+        ],
         "correctAnswer": "Architecture Relations are altered, and Knowledge Components are reinforced"
     },
     {
         "qnumber": 3,
-        "question": "According to the framework that defines product innovations, there is an modular innovation when:",
-        "answers": ["Architecture Relations are altered, and Knowledge Components are substituted", 
-        "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
-        "Architecture Relations are unchanged, and Knowledge Components are substituted", 
-        "Architecture Relations are altered, and Knowledge Components are reinforced"],
+        "question": "According to the framework that defines product innovations, there is a modular innovation when:",
+        "answers": [
+            "Architecture Relations are altered, and Knowledge Components are substituted",
+            "Architecture Relations are unchanged, and Knowledge Components are reinforced",
+            "Architecture Relations are unchanged, and Knowledge Components are substituted",
+            "Architecture Relations are altered, and Knowledge Components are reinforced"
+        ],
         "correctAnswer": "Architecture Relations are unchanged, and Knowledge Components are substituted"
     },
     {
         "qnumber": 4,
-        "question": "According to the framework that defines product innovations, there is an radical innovation when:",
-        "answers": ["Architecture Relations are altered, and Knowledge Components are substituted", 
-        "Architecture Relations are unchanged, and Knowledge Components are reinforced", 
-        "Architecture Relations are unchanged, and Knowledge Components are substituted", 
-        "Architecture Relations are altered, and Knowledge Components are reinforced"],
-        "correctAnswer": "a. Architecture Relations are altered, and Knowledge Components are substituted"
+        "question": "According to the framework that defines product innovations, there is a radical innovation when:",
+        "answers": [
+            "Architecture Relations are altered, and Knowledge Components are substituted",
+            "Architecture Relations are unchanged, and Knowledge Components are reinforced",
+            "Architecture Relations are unchanged, and Knowledge Components are substituted",
+            "Architecture Relations are altered, and Knowledge Components are reinforced"
+        ],
+        "correctAnswer": "Architecture Relations are altered, and Knowledge Components are substituted"
     },
     {
         "qnumber": 5,
-        "question": "In the competitive strategy, the question “Who are our customers?” is connected to the following strategic dimension:",
-        "answers": ["Customer intimacy", "Product leadership", "Operational excellence", "It is connected to all of them"],
+        "question": "In the competitive strategy, the question \u201cWho are our customers?\u201d is connected to the following strategic dimension:",
+        "answers": [
+            "Customer intimacy",
+            "Product leadership",
+            "Operational excellence",
+            "It is connected to all of them"
+        ],
         "correctAnswer": "Customer intimacy"
     },
     {
         "qnumber": 6,
-        "question": "In the competitive strategy, the question “What do we offer them?” is connected to the following strategic dimension:",
-        "answers": ["Customer intimacy", "Product leadership", "Operational excellence", "It is connected to all of them"],
+        "question": "In the competitive strategy, the question \u201cWhat do we offer them?\u201d is connected to the following strategic dimension:",
+        "answers": [
+            "Customer intimacy",
+            "Product leadership",
+            "Operational excellence",
+            "It is connected to all of them"
+        ],
         "correctAnswer": "Product leadership"
     },
     {
         "qnumber": 7,
-        "question": "In the competitive strategy, the question “How can we deliver it effectively and efficiently?” is connected to the following strategic dimension:",
-        "answers": ["Customer intimacy", "Product leadership", "Operational excellence", "It is connected to all of them"],
+        "question": "In the competitive strategy, the question \u201cHow can we deliver it effectively and efficiently?\u201d is connected to the following strategic dimension:",
+        "answers": [
+            "Customer intimacy",
+            "Product leadership",
+            "Operational excellence",
+            "It is connected to all of them"
+        ],
         "correctAnswer": "Operational excellence"
     },
     {
         "qnumber": 8,
         "question": "Which of these is not a source of strategic innovation?",
-        "answers": ["Design-Driven innovation", "Technology Push innovation", "Market Pull innovation", "Data-Driven innovation"],
+        "answers": [
+            "Design-Driven innovation",
+            "Technology Push innovation",
+            "Market Pull innovation",
+            "Data-Driven innovation"
+        ],
         "correctAnswer": "Data-Driven innovation"
     },
     {
         "qnumber": 9,
         "question": "Defining the target market and identifying consumer unfulfilled needs allows companies to pursue a:",
-        "answers": ["Desgin-Driven innovation", "Technology Push innovation", "Market Pull innovation", "None of them"],
+        "answers": [
+            "Desgin-Driven innovation",
+            "Technology Push innovation",
+            "Market Pull innovation",
+            "None of them"
+        ],
         "correctAnswer": "Market Pull innovation"
     },
     {
         "qnumber": 10,
         "question": "Developing innovative products or services and providing a unique meaning to existing goods enables companies to pursue a:",
-        "answers": ["Desgin-Driven innovation", "Technology Push innovation", "Market Pull innovation", "None of them"],
+        "answers": [
+            "Design-Driven innovation",
+            "Technology Push innovation",
+            "Market Pull innovation",
+            "None of them"
+        ],
         "correctAnswer": "Design-Driven innovation"
-    }]
+    },
+    {
+        "qnumber": 11,
+        "question": "Optimizing production processes and developing new products to satisfy previously unidentified consumer needs allows companies to pursue a:",
+        "answers": [
+            "Desgin-driven innovation",
+            "Technology push innovation",
+            "Market pull innovation",
+            "None of them"
+        ],
+        "correctAnswer": "Technology push innovation"
+    },
+    {
+        "qnumber": 12,
+        "question": "Ecosystem partners are:",
+        "answers": [
+            "Organizations weakly interconnected with each other, although dependent on each other for their survival",
+            "Artists, cultural organizations, sociologists, anthropologists, marketing and media expert who explore socio-cultural trends",
+            "Producers of innovative as well as professional machinery and plants that lead to the identification of technology trends in terms of production processes",
+            "Manufacturers of hardware and software components who contribute to identifying digital trends"
+        ],
+        "correctAnswer": "Organizations weakly interconnected with each other, although dependent on each other for their survival"
+    },
+    {
+        "qnumber": 13,
+        "question": "If a company decides to serve a tribe:",
+        "answers": [
+            "It doesn\u2019t distinguish customers based on their demographic geographic and behavioral characteristics",
+            "It brings together two or more distinct but interdependent customer groups though a digital platform",
+            "It identifies various customer groups based on their passions, interests and experiences that make them capable of collective action",
+            "It distinguishes each customer each customer from others, exploiting the possibilities offered by Industry 4.0"
+        ],
+        "correctAnswer": "It identifies various customer groups based on their passions, interests and experiences that make them capable of collective action"
+    },
+    {
+        "qnumber": 14,
+        "question": "Which of these is not a Building Block of the Business Model Canvas?",
+        "answers": [
+            "Society",
+            "Products",
+            "Technology",
+            "Resources"
+        ],
+        "correctAnswer": "Technology"
+    },
+    {
+        "qnumber": 15,
+        "question": "Which tool can be used to verify whether a company is strategically aligned in all its strategic dimensions?",
+        "answers": [
+            "The business model framework",
+            "The business model canvas",
+            "The digital operating model",
+            "The strategic fit matrix"
+        ],
+        "correctAnswer": "The strategic fit matrix"
+    },
+    {
+        "qnumber": 16,
+        "question": "What type of production is carried out in the 1st Industrial Revolution?",
+        "answers": [
+            "Flexible production",
+            "Mass production",
+            "Centralized production",
+            "Intelligent production"
+        ],
+        "correctAnswer": "Centralized production"
+    },
+    {
+        "qnumber": 17,
+        "question": "What type of production is carried out in the 2nd Industrial Revolution?",
+        "answers": [
+            "Flexible production",
+            "Mass production",
+            "Centralized production",
+            "Intelligent production"
+        ],
+        "correctAnswer": "Mass production"
+    },
+    {
+        "qnumber": 18,
+        "question": "What type of production is carried out in the 3rd Industrial Revolution?",
+        "answers": [
+            "Flexible production",
+            "Mass production",
+            "Centralized production",
+            "Intelligent production"
+        ],
+        "correctAnswer": "Flexible production"
+    },
+    {
+        "qnumber": 19,
+        "question": "What type of production is carried out in the 4th Industrial Revolution?",
+        "answers": [
+            "Flexible production",
+            "Mass production",
+            "Centralized production",
+            "Intelligent production"
+        ],
+        "correctAnswer": "Intelligent production"
+    },
+    {
+        "qnumber": 20,
+        "question": "Which are the generic technological strategies?",
+        "answers": [
+            "Openness and closure",
+            "Complexification and simplification",
+            "Usability and security",
+            "None of the answer is correct"
+        ],
+        "correctAnswer": "Openness and closure"
+    },
+    {
+        "qnumber": 21,
+        "question": "Some operational objectives related to the \u201copenness and freedom of system\u201d strategy are:",
+        "answers": [
+            "Complexification, ownership and flexibility",
+            "Centralization, predictability and efficiency",
+            "Reactivity, automation and simplification",
+            "Decentralization, interoperability and augmentation"
+        ],
+        "correctAnswer": "Decentralization, interoperability and augmentation"
+    },
+    {
+        "qnumber": 22,
+        "question": "Some operational objectives related to the \u201cclosure and control of the system\u201d strategy are:",
+        "answers": [
+            "Complexification, ownership and flexibility",
+            "Centralization, predictability and efficiency",
+            "Reactivity, automation and simplification",
+            "Decentralization, interoperability and augmentation"
+        ],
+        "correctAnswer": "Reactivity, automation and simplification"
+    },
+    {
+        "qnumber": 23,
+        "question": "Which of the following is not one of the nine digital paradigms?",
+        "answers": [
+            "Digital manufacturing",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Cyber Security"
+        ],
+        "correctAnswer": "Artificial Intelligence"
+    },
+    {
+        "qnumber": 24,
+        "question": "Which of the following is not one of the nine digital paradigms?",
+        "answers": [
+            "Industrial Internet of Things",
+            "Blockchain",
+            "Big Data Analytics",
+            "System integration"
+        ],
+        "correctAnswer": "Blockchain"
+    },
+    {
+        "qnumber": 25,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Digital Manufacturing paradigm impact the internalization strategy?",
+        "answers": [
+            "Reduction in the optimal size of production sites (reduces economies of scale)",
+            "Reduction in the use of unskilled labour and, therefore, the convenience of low-cost relocation strategies",
+            "Reduction in the time and costs (transport, warehouse and customs duties) of delivering products to the customer",
+            "Increase in external collaboration in product design"
+        ],
+        "correctAnswer": "Reduction in the use of unskilled labour and, therefore, the convenience of low-cost relocation strategies"
+    },
+    {
+        "qnumber": 26,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Digital Manufacturing paradigm impact the ownership strategy?",
+        "answers": [
+            "Reduction in the number of suppliers, in particular, those specialized in the production of complex parts (self-production of components)",
+            "Increase in external collaboration in product design",
+            "Increase in the creation of products  with new features",
+            "Increase in product customization"
+        ],
+        "correctAnswer": "Reduction in the number of suppliers, in particular, those specialized in the production of complex parts (self-production of components)"
+    },
+    {
+        "qnumber": 27,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Digital Manufacturing paradigm impact the efficiency strategy?",
+        "answers": [
+            "Reduction in the optimal size of production sites (reduces economies of scale)",
+            "Reduction in product development time and costs (time-to-market and learning economies)",
+            "Reduction in the number of items in stock (elimination of components for products, self-production of some components)",
+            "Increase in freedom in product design by fostering individual creativity and the birth of new ideas"
+        ],
+        "correctAnswer": "Reduction in the number of items in stock (elimination of components for products, self-production of some components)"
+    },
+    {
+        "qnumber": 28,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Digital Manufacturing paradigm impact the flexibility strategy?",
+        "answers": [
+            "Reduction in the use of unskilled labour and, therefore, the convenience of low cost relocation strategies",
+            "Reduction in the number of items in stock (elimination of components for products, self-production of some components)",
+            "Reduction in the time and costs (including customs) of procurement (self-production of some components)",
+            "Reduction in assembly costs (fewer components)"
+        ],
+        "correctAnswer": "Reduction in the use of unskilled labour and, therefore, the convenience of low cost relocation strategies"
+    },
+    {
+        "qnumber": 29,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Autonomous and Collaborative Robots paradigm impact the externalization strategy?",
+        "answers": [
+            "Increase in efficiency and effectiveness in production planning and control",
+            "Possibility to enable complex processing optimizing process variables (machine learning)",
+            "Increase in labour productivity by promoting human-to machine interaction",
+            "Possibility to enable decentralized production control"
+        ],
+        "correctAnswer": "Possibility to enable decentralized production control"
+    },
+    {
+        "qnumber": 30,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Autonomous and Collaborative Robots paradigm impact the automation strategy?",
+        "answers": [
+            "Increase in efficiency and effectiveness in production planning and control",
+            "Increase in labour productivity by promoting human-to -machine interaction",
+            "Increase in the optimization of just-in-time and just-in-sequence deliveries",
+            "Increase in product customization"
+        ],
+        "correctAnswer": "Increase in efficiency and effectiveness in production planning and control"
+    },
+    {
+        "qnumber": 31,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Autonomous and Collaborative Robots paradigm impact the augmentation strategy?",
+        "answers": [
+            "Increase in flexibility without compromising the quality of the work",
+            "Possibility to enable complex processing by simplifying human activities",
+            "Increase in labour productivity by promoting human-to-machine interaction",
+            "Possibility to enable decentralized production control"
+        ],
+        "correctAnswer": "Increase in labour productivity by promoting human-to-machine interaction"
+    },
+    {
+        "qnumber": 32,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Autonomous and Collaborative Robots paradigm impact the decentralization strategy?",
+        "answers": [
+            "Possibility to enable complex processing optimizing process variables (machine learning)",
+            "Possibility to enable decentralized production control",
+            "Increase in the optimization of just-in-time and just-in-sequence deliveries",
+            "Increase in production customization"
+        ],
+        "correctAnswer": "Possibility to enable decentralized production control"
+    },
+    {
+        "qnumber": 33,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Autonomous and Collaborative Robots paradigm impact the simplification strategy?",
+        "answers": [
+            "Possibility to enable the replacement of human operators in repetitive, strenuous, and risky activities",
+            "Possibility to enable complex processing optimizing process variables (machine learning)",
+            "Increase in the accuracy of the assembly simplifying human activities",
+            "Increase in product customization"
+        ],
+        "correctAnswer": "Increase in the accuracy of the assembly simplifying human activities"
+    },
+    {
+        "qnumber": 34,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Augmented and Virtual Reality paradigm impact the externalization strategy?",
+        "answers": [
+            "Reduction in training time for new and seasonal workers",
+            "Increase in quality control",
+            "Reduction in repair times through guided maintenance procedures",
+            "Opportunity to enable the possibility of making aesthetic and functional product tests with customers"
+        ],
+        "correctAnswer": "Opportunity to enable the possibility of making aesthetic and functional product tests with\r\ncustomers"
+    },
+    {
+        "qnumber": 35,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Augmented and Virtual Reality paradigm have an impact on the reactivity strategy?",
+        "answers": [
+            "Opportunity to enable safer and more controlled training environment for workers",
+            "Increase in the conformity of the goods taken from the warehouse with what is requested",
+            "Reduction in repair times through guided maintenance procedures",
+            "Increase in the customer experience"
+        ],
+        "correctAnswer": "Reduction in repair times through guided maintenance procedures"
+    },
+    {
+        "qnumber": 36,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Augmented and Virtual Reality paradigm impact the efficiency strategy?",
+        "answers": [
+            "Increase in the accuracy in the location of the goods stock",
+            "Opportunity to enable new forms of human-to-machine interaction in production and maintenance processes",
+            "Opportunity to enable the possibility of making aesthetic and functional product tests with customers",
+            "Increase in the customer experience"
+        ],
+        "correctAnswer": "Increase in the accuracy in the location of the goods stock"
+    },
+    {
+        "qnumber": 37,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Augmented and Virtual Reality paradigm impact the flexibility strategy?",
+        "answers": [
+            "Reduction in training time for new and seasonal workers",
+            "Opportunity to enable new forms of human-to-machine interaction in production and maintenance processes",
+            "Reduction repair times through guided maintenance procedures",
+            "Increase in the customer experience"
+        ],
+        "correctAnswer": "Opportunity to enable new forms of human-to-machine interaction in production and\r\nmaintenance processes"
+    },
+    {
+        "qnumber": 38,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Augmented and Virtual Reality paradigm impact the prediction strategy?",
+        "answers": [
+            "Opportunity to enable a safer and more controlled training environment for workers",
+            "Increase in quality control",
+            "Reduction in human error and downtime by increasing the availability of all relevant information in real time",
+            "Increase in collaboration and learning on the field among more people remotely in production and maintenance processes"
+        ],
+        "correctAnswer": "Reduction in human error and downtime by increasing the availability of all relevant information in real time"
+    },
+    {
+        "qnumber": 39,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Internet of Things paradigm impact the centralization strategy?",
+        "answers": [
+            "Opportunity to enable the real-time location of materials and products along the supply chain",
+            "Increase in work productivity by continuously monitoring working conditions",
+            "Reduction in product repair time by signalling the need for maintenance before the product breaks",
+            "Increase in the simplicity of use of the product by reducing human intervention"
+        ],
+        "correctAnswer": "Opportunity to enable the real-time location of materials and products along the supply chain"
+    },
+    {
+        "qnumber": 40,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Internet of Things paradigm impact the interoperability strategy?",
+        "answers": [
+            "Increase in work productivity by continuously monitoring working conditions",
+            "Increase in the accuracy of the verification of the conditions of transport and storage of the products",
+            "Increase in communication and interaction between intelligent products (through decision-making capabilities) and centralized controlling units",
+            "Reduction in the role of intermediaries in the relationship with the customer"
+        ],
+        "correctAnswer": "Increase in communication and interaction between intelligent products (through decision- making capabilities) and centralized controlling units"
+    },
+    {
+        "qnumber": 41,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Internet of Things paradigm impact the flexibility strategy?",
+        "answers": [
+            "Increase in work productivity by continuously monitoring working conditions",
+            "Increase in the accuracy of the verification of the conditions of transport and storage of the products",
+            "Reduction in unexpected failures and the amount of preventive maintenance for products",
+            "Increase in the offer of personalized and automated services by leveraging IoT data"
+        ],
+        "correctAnswer": "Increase in the offer of personalized and automated services by leveraging IoT data"
+    },
+    {
+        "qnumber": 42,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Internet of Things paradigm impact the internalization strategy?",
+        "answers": [
+            "Opportunity to enable the real-time location of materials and products along the supply chain",
+            "Increase in efficiency in supply chain management by continuously integrating more detailed information from the various partners in the supply chain",
+            "Reduction in unexpected failures and the amount of preventive maintenance for products",
+            "Reduction in the role of intermediaries in the relationship with the customer"
+        ],
+        "correctAnswer": "Reduction in the role of intermediaries in the relationship with the customer"
+    },
+    {
+        "qnumber": 43,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Internet of Things paradigm impact the automation strategy?",
+        "answers": [
+            "Increase in work productivity by continuously monitoring working conditions",
+            "Reduction in unexpected failures and the amount of preventive maintenance for machinery",
+            "Reduction in the role of intermediaries in the relationship with the customer",
+            "Opportunity to enable the real-time location of materials and products along the supply chain"
+        ],
+        "correctAnswer": "Reduction in unexpected failures and the amount of preventive maintenance for machinery"
+    },
+    {
+        "qnumber": 44,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Cloud Computing paradigm impact the security strategy?",
+        "answers": [
+            "Reduction in the cost for initial investments and subsequent maintenance of physical infrastructures and software applications",
+            "Increase in the inviolability of physical infrastructures and software applications by centralizing cybersecurity procedures",
+            "Increase in process monitoring and control",
+            "Increase in data sharing between sites and organizational boundaries"
+        ],
+        "correctAnswer": "Increase in the inviolability of physical infrastructures and software applications by centralizing cybersecurity procedures"
+    },
+    {
+        "qnumber": 45,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Cloud Computing paradigm impact the efficiency strategy?",
+        "answers": [
+            "Reduction in the cost for the use of physical infrastructures making them infrastructure as-a-service (IaaS)",
+            "Increase in the inviolability of physical infrastructures and software applications by centralizing cybersecurity procedures",
+            "Possibility to enable the use of physical infrastructures and immediately scalable software applications",
+            "Increase in data sharing between sites and organizational boundaries"
+        ],
+        "correctAnswer": "Reduction in the cost for the use of physical infrastructures making them infrastructure as- a-service (IaaS)"
+    },
+    {
+        "qnumber": 46,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Cloud Computing paradigm impact the externalization strategy?",
+        "answers": [
+            "Reduction in the risk of technological obsolescence of physical infrastructures and software applications",
+            "Reduction in energy waste in the use of physical infrastructures by exploiting economies of scale",
+            "Increase in the inviolability of physical infrastructures and software applications by centralizing cybersecurity procedures",
+            "Possibility to enable the use of physical infrastructures and software applications at all times"
+        ],
+        "correctAnswer": "Reduction in the risk of technological obsolescence of physical infrastructures and software applications"
+    },
+    {
+        "qnumber": 47,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Cloud Computing paradigm impact the centralization strategy?",
+        "answers": [
+            "Reduction in the risk of technological obsolescence of physical infrastructures and software applications",
+            "Possibility to enable the use of physical infrastructures and software applications everywhere",
+            "Increase in process monitoring and control",
+            "Increase in data sharing between sites and organizational boundaries"
+        ],
+        "correctAnswer": "Increase in process monitoring and control"
+    },
+    {
+        "qnumber": 48,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Industrial Cloud Computing paradigm impact the simplification strategy?",
+        "answers": [
+            "Reduction in the cost for the use of software applications making them as-a-service (SaaS)",
+            "Possibility to enable the use of physical infrastructures and software applications at all times",
+            "Possibility to enable the use of physical infrastructures and immediately scalable software applications",
+            "Increase in process monitoring and control"
+        ],
+        "correctAnswer": "Increase in process monitoring and control"
+    },
+    {
+        "qnumber": 49,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Simulation paradigm impact the prediction strategy?",
+        "answers": [
+            "Increase in the information on the residual time of use or storage of component parts also to identify those that can be reused",
+            "Increase in the iterations of designing new products and processes",
+            "Reduction in the risks of incorrect design reflecting the requests of users in the realization of the product",
+            "Reduction in the time and cost of reconfiguring machinery and systems by continuously adapting them to the dynamic production context"
+        ],
+        "correctAnswer": "Increase in the information on the residual time of use or storage of component parts also to identify those that can be reused"
+    },
+    {
+        "qnumber": 50,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Simulation paradigm impact the usability strategy?",
+        "answers": [
+            "Increase in the information on the residual time of use or storage of component parts also to identify those that can be reused",
+            "Increase in the efficiency in the use of internal handling equipment by simulating the different assembly phases",
+            "Reduction in the risks of incorrect design by preventing potential errors through the simulation of product behavior",
+            "Opportunity to enable the design of advanced environmental management services"
+        ],
+        "correctAnswer": "Reduction in the risks of incorrect design by preventing potential errors through the simulation of product behavior"
+    },
+    {
+        "qnumber": 51,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Simulation paradigm have an impact on the decentralization strategy?",
+        "answers": [
+            "Reduction in the costs (economic and environmental) of procurement by foreseeing the costs in the choice of alternative suppliers",
+            "Increase in the iterations of designing new products and processes",
+            "Reduction in the risks of incorrect design reflecting the requests of users in the realization of the product",
+            "Possibility to enable the design of advanced environmental management services"
+        ],
+        "correctAnswer": "Reduction in the costs (economic and environmental) of procurement by foreseeing the costs in the choice of alternative suppliers"
+    },
+    {
+        "qnumber": 52,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Simulation paradigm impact the externalization strategy?",
+        "answers": [
+            "Increase in the information on the residual time of use or storage of component parts also to identify those that can be reused",
+            "Increase in the possibility of collaboration at the supply chain level by simulating the overall process, forecasting economic, social and environmental performance",
+            "Increase in the efficiency in the use of internal handling equipment by simulating the different assembly phases",
+            "Reduction in the risks of incorrect design by preventing potential errors through the simulation of product behaviour"
+        ],
+        "correctAnswer": "Increase in the possibility of collaboration at the supply chain level by simulating the overall process, forecasting economic, social and environmental performance"
+    },
+    {
+        "qnumber": 53,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Simulation paradigm impact the flexibility strategy?",
+        "answers": [
+            "Reduction in the costs (economic and environmental) of procurement by foreseeing the costs in the choice of alternative suppliers",
+            "Increase in the information on the residual time of use or storage of component parts also to identify those that can be reused",
+            "Increase in the iterations of designing new products and processes",
+            "Increase in control by monitoring the correctness and efficiency of the production process"
+        ],
+        "correctAnswer": "Increase in the iterations of designing new products and processes"
+    },
+    {
+        "qnumber": 54,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Big Data Analytics (descriptive analytics) paradigm impacts the efficiency strategy?",
+        "answers": [
+            "Increase in quality of insight generation that help solve customer issues and increase customer experience",
+            "Increase in quality in the search for purchasing commonalities to negotiate better pricing",
+            "Increase in quality of the tracking of goods along the supply chain for demand planning",
+            "Increase in quality of the tracking of product usage, performance, and positioning"
+        ],
+        "correctAnswer": "Increase in quality in the search for purchasing commonalities to negotiate better pricing"
+    },
+    {
+        "qnumber": 55,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Big Data Analytics (predictive analytics) paradigm impacts the automation strategy?",
+        "answers": [
+            "Increase in the speed of adjusting the regular behaviour of machines with their expected behavior",
+            "Increase in the ability of improving the user service experience",
+            "Increase in the ability of differentiating and developing innovative products and services",
+            "Increase in the ability of providing better services thanks to the identification of future customer behaviour"
+        ],
+        "correctAnswer": "Increase in the speed of adjusting the regular behaviour of machines with their expected behavior"
+    },
+    {
+        "qnumber": 56,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Big Data Analytics (predictive analytics) paradigm impacts the efficiency strategy?",
+        "answers": [
+            "Increase in the ability of improving the user service experience",
+            "Increase in the ability of differentiating and developing innovative products and services",
+            "Increase in the speed of activating quality control for the maintenance of machinery and products",
+            "Increase in the capability of uncovering patterns, tracking movements, and analysing customer preferences to make more accurate market profiling and segmentation"
+        ],
+        "correctAnswer": "Increase in the speed of activating quality control for the maintenance of machinery and products"
+    },
+    {
+        "qnumber": 57,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Big Data Analytics (prescriptive analytics) paradigm impacts the efficiency strategy?",
+        "answers": [
+            "Increase in rapidity in response to market demand",
+            "Increase in real-time planning of energy consumption savings during breaks, reducing machine consumption",
+            "Increase in the ability to modify routes of vehicles in real-time based on unforeseen events",
+            "Increase in the capability to anticipate design flaws and correct them"
+        ],
+        "correctAnswer": "Increase in real-time planning of energy consumption savings during breaks, reducing machine consumption"
+    },
+    {
+        "qnumber": 58,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Structural Horizontal and Vertical System Integration paradigm impact the decentralization strategy?",
+        "answers": [
+            "Increase in information sharing with suppliers",
+            "Reduction in production times by improving the use of machinery thanks to real-time planning",
+            "Increase in decision-making support based on up-to-date production information and incoming orders",
+            "Reduction in time-to-market"
+        ],
+        "correctAnswer": "Increase in information sharing with suppliers"
+    },
+    {
+        "qnumber": 59,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Structural Horizontal and Vertical System Integration paradigm impact the interoperability strategy?",
+        "answers": [
+            "Increase in decision-making support based on up-to-date production information and incoming orders",
+            "Reduction in delivery times by coordinating and adapting production and distribution processes",
+            "Increase in customer relations by facilitating joint product design",
+            "Increase in the flexible and dynamic interaction between partners in the production process"
+        ],
+        "correctAnswer": "Increase in the flexible and dynamic interaction between partners in the production process"
+    },
+    {
+        "qnumber": 60,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Structural Horizontal and Vertical System Integration paradigm impact the reactivity strategy?",
+        "answers": [
+            "Reduction in time-to-market",
+            "Increase in control over digital channels and smart products to improve the customer experience",
+            "Increase in the traceability of data horizontally along the supply chain thanks to signalling systems",
+            "Increase in customer relations by facilitating joint product design"
+        ],
+        "correctAnswer": "Increase in the traceability of data horizontally along the supply chain thanks to signalling systems"
+    },
+    {
+        "qnumber": 61,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Structural Horizontal and Vertical System Integration paradigm impact the flexibility strategy?",
+        "answers": [
+            "Increase in the capacity for self-organization and flexible reconfiguration of production lines for customized products",
+            "Increase in the efficiency in the use of resources thanks to sharing between collaborative networks",
+            "Reduction in production times by improving the use of machinery thanks to real-time planning",
+            "Reduction in delivery times by coordinating and adapting production and distribution processes"
+        ],
+        "correctAnswer": "Increase in the capacity for self-organization and flexible reconfiguration of production lines for customized products"
+    },
+    {
+        "qnumber": 62,
+        "question": "Which of the following \u201cOperational Benefits\u201d of the Structural Horizontal and Vertical System Integration paradigm impact the complexification strategy?",
+        "answers": [
+            "Increase in customer relations by facilitating joint product design",
+            "Increase in interaction between products to perform complex cooperation tasks",
+            "Reduction in time-to-market",
+            "Reduction in production times by improving the use of machinery thanks to real-time planning"
+        ],
+        "correctAnswer": "Increase in interaction between products to perform complex cooperation tasks"
+    },
+    {
+        "qnumber": 63,
+        "question": "Building an agile and hybrid organization may represent a valid solution:",
+        "answers": [
+            "to design and build sound software tools",
+            "to survive and thrive through digital disruption",
+            "to encompass more digital processes",
+            "to nourish the organization\u2019s competitive advantage"
+        ],
+        "correctAnswer": "to survive and thrive through digital disruption"
+    },
+    {
+        "qnumber": 64,
+        "question": "The connection between business models and technology:",
+        "answers": [
+            "Both need to be coherent",
+            "technology influences business models and business models necessitate the use of technologies",
+            "business models influence the chosen technology",
+            "technology influences business models and technologies necessitate business models"
+        ],
+        "correctAnswer": "technology influences business models and technologies necessitate business models"
+    },
+    {
+        "qnumber": 65,
+        "question": "Technological advancements:",
+        "answers": [
+            "Have proper economic value",
+            "Have no economic value",
+            "Have an economic value, which is challenging to measure",
+            "Have an economic value if they are properly implemented within business models"
+        ],
+        "correctAnswer": "Have an economic value if they are properly implemented within business models"
+    },
+    {
+        "qnumber": 66,
+        "question": "A business model which is driven by the Industry 4.0 digital paradigms:",
+        "answers": [
+            "will use technologies as an input in order to extract value and generate a valuable output for its customer base",
+            "will use technologies as an input to speed up production and become more efficient",
+            "will use technologies to innovate all its building blocks",
+            "will use technologies to create new products and services."
+        ],
+        "correctAnswer": "will use technologies as an input in order to extract value and generate a valuable output for its customer base"
+    },
+    {
+        "qnumber": 67,
+        "question": "Data-driven business models are typically adopted by organizations operating:",
+        "answers": [
+            "B2B",
+            "B2C",
+            "C2B",
+            "Can be implemented by any business and or consumer models"
+        ],
+        "correctAnswer": "C2B"
+    },
+    {
+        "qnumber": 68,
+        "question": "Customer-to-Business (C2B) sector means:",
+        "answers": [
+            "markets within which innovative products are designed and developed from the data generated and collected as a result of product utilization as well as product-user interactions",
+            "markets within which innovative products are gathered directly from customers",
+            "markets within which customers create and deliver innovative products with the support of the organizations",
+            "markets in which innovative products are the results of a multistakeholder active participation and cooperation."
+        ],
+        "correctAnswer": "markets within which innovative products are designed and developed from the data generated and collected as a result of product utilization as well as product-user interactions"
+    },
+    {
+        "qnumber": 69,
+        "question": "Platform business models are typically adopted by organizations operating:",
+        "answers": [
+            "B2B",
+            "C2B",
+            "C2C",
+            "Can be implemented by any business and or consumer models"
+        ],
+        "correctAnswer": "C2C"
+    },
+    {
+        "qnumber": 70,
+        "question": "Smart factory business models are typically adopted by organizations operating:",
+        "answers": [
+            "B2B",
+            "C2B",
+            "C2C",
+            "Can be implemented by any business and or consumer models"
+        ],
+        "correctAnswer": "B2B"
+    },
+    {
+        "qnumber": 71,
+        "question": "Servitization business models are typically adopted by organizations operating:",
+        "answers": [
+            "B2B",
+            "C2B",
+            "B2C",
+            "Can be implemented by any business and or consumer models"
+        ],
+        "correctAnswer": "B2C"
+    },
+    {
+        "qnumber": 72,
+        "question": "Smart factory business models are associated with the strategic dimension of:",
+        "answers": [
+            "Operational excellence",
+            "Product leadership",
+            "Customer intimacy",
+            "Ecosystem leadership"
+        ],
+        "correctAnswer": "Operational excellence"
+    },
+    {
+        "qnumber": 73,
+        "question": "Servitization business models are associated with the strategic dimension of:",
+        "answers": [
+            "Operational excellence",
+            "Product leadership",
+            "Customer intimacy",
+            "Ecosystem leadership"
+        ],
+        "correctAnswer": "Product leadership"
+    },
+    {
+        "qnumber": 74,
+        "question": "Data driven business models are associated with the strategic dimension of:",
+        "answers": [
+            "Operational excellence",
+            "Product leadership",
+            "Customer intimacy",
+            "Ecosystem leadership"
+        ],
+        "correctAnswer": "Customer intimacy"
+    },
+    {
+        "qnumber": 75,
+        "question": "Platform business models are associated with the strategic dimension of:",
+        "answers": [
+            "Operational excellence",
+            "Product leadership",
+            "Customer intimacy",
+            "Ecosystem leadership"
+        ],
+        "correctAnswer": "Ecosystem leadership"
+    },
+    {
+        "qnumber": 76,
+        "question": "Datafication means:",
+        "answers": [
+            "generation and collection of data and the extraction of valuable knowledge",
+            "data analysis and the extraction of valuable knowledge",
+            "big data analytics the extraction of valuable knowledge",
+            "data measurement and the extraction of valuable knowledge"
+        ],
+        "correctAnswer": "generation and collection of data and the extraction of valuable knowledge"
+    },
+    {
+        "qnumber": 77,
+        "question": "Organizations achieve economies of scale through:",
+        "answers": [
+            "a wider variety of goods and services",
+            "production level increments",
+            "price increase",
+            "production efficiency measures"
+        ],
+        "correctAnswer": "production level increments"
+    },
+    {
+        "qnumber": 78,
+        "question": "Organizations achieve economies of scope and complementarities through:",
+        "answers": [
+            "a wider variety of goods and services",
+            "production level increments",
+            "price increase",
+            "production efficiency measures"
+        ],
+        "correctAnswer": "a wider variety of goods and services"
+    },
+    {
+        "qnumber": 79,
+        "question": "Operating models refer to the abstract and visual representation of the modalities through which organizations:",
+        "answers": [
+            "understand the best marketing ways to enter new business segments",
+            "structure their core processes and deliver value to their customers",
+            "structure their core processes to increase their efficacy and effectiveness",
+            "structure their core processes to reduce the costs of the operations"
+        ],
+        "correctAnswer": "structure their core processes and deliver value to their customers"
+    },
+    {
+        "qnumber": 80,
+        "question": "Operating models:",
+        "answers": [
+            "are standardized",
+            "although they can be employed by any organization, are particularly relevant for large corporations",
+            "can range from simple to complex",
+            "should follow some best practices."
+        ],
+        "correctAnswer": "can range from simple to complex"
+    },
+    {
+        "qnumber": 81,
+        "question": "Digital scale, scope and learning:",
+        "answers": [
+            "are able to reshape the nature of competitive advantage",
+            "do not affect company dimension",
+            "can represent a challenge that organizations need to address",
+            "represent a doubtful advantage"
+        ],
+        "correctAnswer": "are able to reshape the nature of competitive advantage"
+    },
+    {
+        "qnumber": 82,
+        "question": "Monetization means:",
+        "answers": [
+            "generating value from a particular product or service",
+            "generating data from a particular product or service",
+            "generating competitive advantage from a particular product or service",
+            "generating money from a particular product or service"
+        ],
+        "correctAnswer": "generating money from a particular product or service"
+    },
+    {
+        "qnumber": 83,
+        "question": "In digital companies:",
+        "answers": [
+            "The marginal cost of serving an additional user on multiple digital networks is higher than that of non-digital companies",
+            "The marginal cost of serving an additional user on multiple digital networks is limited",
+            "The marginal cost of serving an additional user on multiple digital networks is close to zero",
+            "The marginal cost of serving an additional user on multiple digital networks cannot be overlooked"
+        ],
+        "correctAnswer": "The marginal cost of serving an additional user on multiple digital networks is close to zero"
+    },
+    {
+        "qnumber": 84,
+        "question": "In digital companies, learning and innovation are:",
+        "answers": [
+            "Faster",
+            "More efficient",
+            "More challenging",
+            "Not relevant"
+        ],
+        "correctAnswer": "Faster"
+    },
+    {
+        "qnumber": 85,
+        "question": "Digital operating models:",
+        "answers": [
+            "Must be aligned with digital business model to optimize performance",
+            "Can enable faster learning and innovation",
+            "Are able to transform industries and reshape competitive advantage",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 86,
+        "question": "Digital operating models are based on:",
+        "answers": [
+            "Data monetization",
+            "Software development",
+            "Customer intimacy",
+            "Data generation"
+        ],
+        "correctAnswer": "Software development"
+    },
+    {
+        "qnumber": 87,
+        "question": "Product dematerialization refers to:",
+        "answers": [
+            "cyber services available to users",
+            "data available to users",
+            "cyber goods available to users",
+            "tangible goods available to users"
+        ],
+        "correctAnswer": "cyber goods available to users"
+    },
+    {
+        "qnumber": 88,
+        "question": "A bug is:",
+        "answers": [
+            "a fault causing a program to crash or to produce invalid output",
+            "a cyber attack which should be followed by cyber resilience activities",
+            "a cyber attack which should be followed by cyber security activities",
+            "a technical issue of the system"
+        ],
+        "correctAnswer": "a fault causing a program to crash or to produce invalid output"
+    },
+    {
+        "qnumber": 89,
+        "question": "ETL stands for:",
+        "answers": [
+            "extraction, transformation and logging",
+            "extraction, translation and loading",
+            "extraction, translation and logging",
+            "extraction, transformation and loading"
+        ],
+        "correctAnswer": "extraction, transformation and loading"
+    },
+    {
+        "qnumber": 90,
+        "question": "In the process of resolving bugs within software or computer programs, \u201copen data\u201d is part of the:",
+        "answers": [
+            "Society building block",
+            "Internal processes building block",
+            "Resources building block",
+            "External processes building block"
+        ],
+        "correctAnswer": "Society building block"
+    },
+    {
+        "qnumber": 91,
+        "question": "In a randomized control trial, the treatment refers to:",
+        "answers": [
+            "Random users who experience the innovation",
+            "Random users who keep using the original system",
+            "Selected users who experience the innovation",
+            "Selected users who keep using the original system"
+        ],
+        "correctAnswer": "Random users who experience the innovation"
+    },
+    {
+        "qnumber": 92,
+        "question": "In a randomized control trial, the control refers to:",
+        "answers": [
+            "Random users who experience the innovation",
+            "Random users who keep using the original system",
+            "Selected users who experience the innovation",
+            "Selected users who keep using the original system"
+        ],
+        "correctAnswer": "Random users who keep using the original system"
+    },
+    {
+        "qnumber": 93,
+        "question": "The expression \u201cendless users anywhere and anytime\u201d means that",
+        "answers": [
+            "the cost per unit of output decreases as the scale of production increases",
+            "the cost per unit of input decreases as the scale of production decreases",
+            "the cost per unit of output decreases as the scale of production decreases",
+            "the cost per unit of input decreases as the scale of production increases"
+        ],
+        "correctAnswer": "the cost per unit of output decreases as the scale of production increases"
+    },
+    {
+        "qnumber": 94,
+        "question": "The term \u201cartificial intelligence\u201d was coined by John McCarthy in:",
+        "answers": [
+            "1946",
+            "1956",
+            "1966",
+            "1976"
+        ],
+        "correctAnswer": "1956"
+    },
+    {
+        "qnumber": 95,
+        "question": "According to modern artificial intelligence approach:",
+        "answers": [
+            "machines have to be equipped with rules of logical reasoning",
+            "machines have to be equipped with real world conditions",
+            "machines exhibit  intelligence, as characterized by sufficient computational resources and algorithms defining a learning process",
+            "its effectiveness relies thoroughly on the clarity of rules and definitions"
+        ],
+        "correctAnswer": "machines exhibit intelligence, as characterized by sufficient computational resources and"
+    },
+    {
+        "qnumber": 96,
+        "question": "In innovative digital operating models, the concept of \u201cendless users anywhere and anytime\u201d refers to:",
+        "answers": [
+            "the internal processes building block",
+            "the resources building block",
+            "the value proposition building block",
+            "the external processes building block"
+        ],
+        "correctAnswer": "the value proposition building block"
+    },
+    {
+        "qnumber": 97,
+        "question": "A digital-first product is:",
+        "answers": [
+            "a good which functions are controlled by software",
+            "a service which functions are controlled by software",
+            "a software tool",
+            "a good characterized by high tech components"
+        ],
+        "correctAnswer": "a good which functions are controlled by software"
+    },
+    {
+        "qnumber": 98,
+        "question": "The personal level in the development of digital-first goods or services refers to:",
+        "answers": [
+            "The issues brought by technologies to individuals\u2019 lives",
+            "The ethical boundaries brought by technologies to individuals\u2019 lives",
+            "The challenges brought by technologies to individuals\u2019 lives",
+            "The benefits brought by technologies to individuals\u2019 lives"
+        ],
+        "correctAnswer": "The benefits brought by technologies to individuals\u2019 lives"
+    },
+    {
+        "qnumber": 99,
+        "question": "The social level in the development of digital-first goods or services refers to:",
+        "answers": [
+            "the challenges of technological innovation on society and on social relationships",
+            "the impacts of technological innovation on society and on social relationships",
+            "the opportunities of technological innovation on society and on social relationships",
+            "the ethical boundaries of technological innovation on society and on social relationships"
+        ],
+        "correctAnswer": "the impacts of technological innovation on society and on social relationships"
+    },
+    {
+        "qnumber": 100,
+        "question": "The business level in the development of digital-first goods or services refers to:",
+        "answers": [
+            "the opportunities of technological change within the industrial sphere",
+            "the ethical boundaries of technological change within the industrial sphere",
+            "the consequences of technological change within the industrial sphere",
+            "the challenges of technological change within the industrial sphere"
+        ],
+        "correctAnswer": "the consequences of technological change within the industrial sphere"
+    },
+    {
+        "qnumber": 101,
+        "question": "The planet level in the development of digital-first goods or services refers to:",
+        "answers": [
+            "the environmental implications of technologies on the planet",
+            "the environmental use of resources to enhance technologies",
+            "the amount of spared resources",
+            "the impact of technologies on forests"
+        ],
+        "correctAnswer": "the environmental implications of technologies on the planet"
+    },
+    {
+        "qnumber": 102,
+        "question": "The fact that digital goods have the ability to predict the future and to proactively react to complex problems can lead to:",
+        "answers": [
+            "Predictive maintenance",
+            "Big data analytics",
+            "Customer engagement",
+            "Data optimization"
+        ],
+        "correctAnswer": "Predictive maintenance"
+    },
+    {
+        "qnumber": 103,
+        "question": "The digital products\u2019 ability to provide users with personalized recommendations can enhance:",
+        "answers": [
+            "Customer experience",
+            "Customer loyalty",
+            "Data optimization",
+            "Cyber security"
+        ],
+        "correctAnswer": "Customer experience"
+    },
+    {
+        "qnumber": 104,
+        "question": "Digital first products can:",
+        "answers": [
+            "Be constantly upgraded, as well as traditional products",
+            "Interact with further systems and traditional products",
+            "Learn, adjust and continually evolve thanks to artificial intelligence",
+            "Not be constantly upgraded according to the customers\u2019 feedback"
+        ],
+        "correctAnswer": "Learn, adjust and continually evolve thanks to artificial intelligence"
+    },
+    {
+        "qnumber": 105,
+        "question": "Sensors:",
+        "answers": [
+            "Allow collecting data autonomously",
+            "Doesn\u2019t need to be incorporated into the product",
+            "Are useful only if the product can be defined as \u201caugmented\u201d",
+            "Should follow strict cyber security paradigms"
+        ],
+        "correctAnswer": "Allow collecting data autonomously"
+    },
+    {
+        "qnumber": 106,
+        "question": "Connecting more digital products can lead to:",
+        "answers": [
+            "Enhanced computational power",
+            "Enhanced data availability",
+            "Enhanced efficiency in feedback",
+            "Enhanced cyber security"
+        ],
+        "correctAnswer": "Enhanced data availability"
+    },
+    {
+        "qnumber": 107,
+        "question": "Artificial intelligence:",
+        "answers": [
+            "Can organize data and identify patterns to enhance and formulate predictions",
+            "Cannot be applied in decision-making",
+            "Can substitute human judgement in the decision-making within organizations",
+            "Is essential to navigate and untangle decision-making process within organizations"
+        ],
+        "correctAnswer": "Can organize data and identify patterns to enhance and formulate predictions"
+    },
+    {
+        "qnumber": 108,
+        "question": "The business model building block which is less impacted by data-driven business models is:",
+        "answers": [
+            "resources",
+            "customers,",
+            "internal processes",
+            "society"
+        ],
+        "correctAnswer": "Society"
+    },
+    {
+        "qnumber": 109,
+        "question": "Which of the following does not refer to customer intimacy?",
+        "answers": [
+            "Increased product range and customization",
+            "complementary goods",
+            "data testing",
+            "customer engagement"
+        ],
+        "correctAnswer": "Data testing"
+    },
+    {
+        "qnumber": 110,
+        "question": "In data-driven business models, the volume of data available is:",
+        "answers": [
+            "Essential",
+            "Very important, still not sufficient",
+            "Not relevant",
+            "Given for granted"
+        ],
+        "correctAnswer": "Very important, still not sufficient"
+    },
+    {
+        "qnumber": 111,
+        "question": "In data-driven business models, data generation activities:",
+        "answers": [
+            "Have the aim of collecting large amount of data",
+            "Have the aim of generating structured organizational data",
+            "Are part of the value proposition",
+            "Require sound cyber security systems"
+        ],
+        "correctAnswer": "Have the aim of generating structured organizational data"
+    },
+    {
+        "qnumber": 112,
+        "question": "Data integration:",
+        "answers": [
+            "Stands as an essential activity to translate data into information",
+            "Requires the use of large amount of data",
+            "Can be done by adding data from external sources",
+            "Is a relevant task of the resource building block"
+        ],
+        "correctAnswer": "Stands as an essential activity to translate data into information"
+    },
+    {
+        "qnumber": 113,
+        "question": "Data analysis:",
+        "answers": [
+            "Stands as an essential activity to translate data into knowledge and skills",
+            "Requires the use of large amount of data",
+            "Can be done by integrating data from external sources",
+            "Is a relevant task of the resource building block"
+        ],
+        "correctAnswer": "Stands as an essential activity to translate data into knowledge and skills"
+    },
+    {
+        "qnumber": 114,
+        "question": "Customer profiling can lead to:",
+        "answers": [
+            "Additional data",
+            "New market spaces",
+            "Operational excellence",
+            "Product upgrading"
+        ],
+        "correctAnswer": "New market spaces"
+    },
+    {
+        "qnumber": 115,
+        "question": "Product co-design can lead to:",
+        "answers": [
+            "Additional data",
+            "New product development",
+            "Operational excellence",
+            "New market niches"
+        ],
+        "correctAnswer": "New product development"
+    },
+    {
+        "qnumber": 116,
+        "question": "The post-sale process:",
+        "answers": [
+            "Is characterized by the acquisition of augmented products and services",
+            "Is characterized by the utilization of augmented products and services",
+            "Is a critical stage of the customer journey",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 117,
+        "question": "The Consumer-to-Business (C2B) sales models happens when:",
+        "answers": [
+            "Customers sell back the product to the company",
+            "Customers resell the product to other customers",
+            "Consumers contribute to generating value",
+            "Consumers contribute to data collection and analysis"
+        ],
+        "correctAnswer": "Consumers contribute to generating value"
+    },
+    {
+        "qnumber": 118,
+        "question": "Indirect data monetization refers to:",
+        "answers": [
+            "the process of analyzing and processing data available within the company for the purpose of duplicating data",
+            "the process of analyzing and processing data available within the company for the purpose of extracting value",
+            "the process of analyzing and processing data available within the company for the purpose of increasing effectiveness",
+            "the process of analyzing and processing data available within the company for the purpose of customer intimacy"
+        ],
+        "correctAnswer": "the process of analyzing and processing data available within the company for the purpose of extracting value"
+    },
+    {
+        "qnumber": 119,
+        "question": "Human capital in indirect data monetization:",
+        "answers": [
+            "Is essential in order to convert data into knowledge",
+            "Can benefit from the new business models",
+            "See a change in their role",
+            "Are less involved in the process"
+        ],
+        "correctAnswer": "Is essential in order to convert data into knowledge"
+    },
+    {
+        "qnumber": 120,
+        "question": "In indirect data monetization, internal data:",
+        "answers": [
+            "Derive from online user interactions",
+            "Represent a rare asset to imitate",
+            "Derive from organizational processes and public sources",
+            "Are impossible to be acquired from other sources"
+        ],
+        "correctAnswer": "Are impossible to be acquired from other sources"
+    },
+    {
+        "qnumber": 121,
+        "question": "In the data-drive business model, \u201cpositive consumer experience\u201d belongs to:",
+        "answers": [
+            "The society business model canvas building block",
+            "The customer business model canvas building block",
+            "The product business model canvas building block",
+            "The value proposition business model canvas building block"
+        ],
+        "correctAnswer": "The value proposition business model canvas building block"
+    },
+    {
+        "qnumber": 122,
+        "question": "Product up-selling means:",
+        "answers": [
+            "creating an automatic upgrade of the products",
+            "designing and selling an enhanced version of a determined product or service",
+            "collecting high-end data",
+            "customizing the product according to the users\u2019 wishes"
+        ],
+        "correctAnswer": "designing and selling an enhanced version of a determined product or service"
+    },
+    {
+        "qnumber": 123,
+        "question": "Product upgrading means:",
+        "answers": [
+            "collecting high-end data",
+            "customizing the product according to the users\u2019 wishes",
+            "creating an automatic upgrade of the products",
+            "utilizing insights from product-users interactions in order to upgrade the products"
+        ],
+        "correctAnswer": "utilizing insights from product-users interactions in order to upgrade the products"
+    },
+    {
+        "qnumber": 124,
+        "question": "In the data-drive business model, \u201cadditional product features\u201d belong to:",
+        "answers": [
+            "The society business model canvas building block",
+            "The customer business model canvas building block",
+            "The product business model canvas building block",
+            "The value proposition business model canvas building block"
+        ],
+        "correctAnswer": "The product business model canvas building block"
+    },
+    {
+        "qnumber": 125,
+        "question": "New product development means:",
+        "answers": [
+            "creating an automatic upgrade of the products",
+            "designing and selling an enhanced version of a determined product or service",
+            "distributing a new product or service to the market",
+            "customizing the product according to the users\u2019 wishes"
+        ],
+        "correctAnswer": "distributing a new product or service to the market"
+    },
+    {
+        "qnumber": 126,
+        "question": "Product cross-selling means:",
+        "answers": [
+            "distributing related or complementary digital-first goods or services",
+            "creating an automatic upgrade of the products",
+            "designing and selling an enhanced version of a determined product or service",
+            "distributing a new product or service to the market"
+        ],
+        "correctAnswer": "distributing related or complementary digital-first goods or services"
+    },
+    {
+        "qnumber": 127,
+        "question": "Direct data monetization refers to:",
+        "answers": [
+            "the process of granting a third-party access to organizational data in order to generate a direct revenue stream",
+            "the process of analyzing and processing data available within the company for the purpose of extracting value",
+            "the process of analyzing and processing data available within the company for the purpose of increasing effectiveness",
+            "the process of analyzing and processing data available within the company for the purpose of customer intimacy"
+        ],
+        "correctAnswer": "the process of granting a third-party access to organizational data in order to generate a direct revenue stream"
+    },
+    {
+        "qnumber": 128,
+        "question": "The business model building block which is less impacted by platform business models is:",
+        "answers": [
+            "resources",
+            "customers,",
+            "internal processes",
+            "society"
+        ],
+        "correctAnswer": "internal processes"
+    },
+    {
+        "qnumber": 129,
+        "question": "Digital technologies in platform business models allow:",
+        "answers": [
+            "effective and efficient interactions between producers and consumers",
+            "enhanced data collection from customers",
+            "product availability",
+            "operational excellence"
+        ],
+        "correctAnswer": "effective and efficient interactions between producers and consumers"
+    },
+    {
+        "qnumber": 130,
+        "question": "Ecosystem leadership happens when:",
+        "answers": [
+            "high quality data are collected",
+            "customer needs are fulfilled through the purchase of shared products",
+            "customer needs are fulfilled through the purchase of personalized products",
+            "customer intimacy increases"
+        ],
+        "correctAnswer": "customer needs are fulfilled through the purchase of shared products"
+    },
+    {
+        "qnumber": 131,
+        "question": "Which of the following elements do not pertain to platform business models:",
+        "answers": [
+            "digitization of consumer behavior",
+            "digitization of selling processes",
+            "digitization of identity and trust",
+            "digitization of location"
+        ],
+        "correctAnswer": "digitization of selling processes"
+    },
+    {
+        "qnumber": 132,
+        "question": "Which of the following elements does not pertain to platform-based business models:",
+        "answers": [
+            "connectivity",
+            "safety",
+            "openness",
+            "scalability"
+        ],
+        "correctAnswer": "safety"
+    },
+    {
+        "qnumber": 133,
+        "question": "Business ecosystems represent:",
+        "answers": [
+            "specific industrial sectors involved in the delivery of particular products or services through both competition and cooperation",
+            "industrial districts involved in the delivery of particular products or services through both competition and cooperation",
+            "a network of professional operators involved in the delivery of particular products or services through both competition and cooperation",
+            "a network of companies, individuals, and organizations, involved in the delivery of particular products or services through both competition and cooperation"
+        ],
+        "correctAnswer": "a network of companies, individuals, and organizations, involved in the delivery of particular products or services through both competition and cooperation"
+    },
+    {
+        "qnumber": 134,
+        "question": "By the term \"coring\" we mean:",
+        "answers": [
+            "a set of activities to identify or design technologies and products and to render them fundamental to a market",
+            "a set of strategic activities which companies execute to emerge as dominant players within the market",
+            "a set of activities which are carried on to collect high quality data",
+            "a set of strategic activities which are carried on to increase customer intimacy"
+        ],
+        "correctAnswer": "a set of activities to identify or design technologies and products and to render them fundamental to a market"
+    },
+    {
+        "qnumber": 135,
+        "question": "By the term \"tipping\" we mean:",
+        "answers": [
+            "a set of activities to identify or design technologies and products and to render them fundamental to a market",
+            "a set of strategic activities which companies execute to emerge as dominant players within the market",
+            "a set of activities which are carried on to collect high quality data",
+            "a set of strategic activities which are carried on to increase customer intimacy"
+        ],
+        "correctAnswer": "a set of strategic activities which companies execute to emerge as dominant players within the market"
+    },
+    {
+        "qnumber": 136,
+        "question": "Network effects contribute to",
+        "answers": [
+            "enhancing value creation",
+            "enhancing customer intimacy",
+            "enhancing high value data collection",
+            "empowering the co-design of new or upgraded products"
+        ],
+        "correctAnswer": "enhancing value creation"
+    },
+    {
+        "qnumber": 137,
+        "question": "Network effects can be:",
+        "answers": [
+            "positive",
+            "negative",
+            "both positive and negative",
+            "dependent on the quality of collected data"
+        ],
+        "correctAnswer": "both positive and negative"
+    },
+    {
+        "qnumber": 138,
+        "question": "Which of the following does not represent a shift brought forth by platform-based business models:",
+        "answers": [
+            "Shift in markets",
+            "Shift in competitive advantage",
+            "Shift in data collection",
+            "Shift in value creation"
+        ],
+        "correctAnswer": "Shift in data collection"
+    },
+    {
+        "qnumber": 139,
+        "question": "In platform-based business models:",
+        "answers": [
+            "Participants allows producers and consumers to meet",
+            "Participants can be either producers or consumers",
+            "Users are represented by both producers as well as consumers",
+            "Participants act as producers as well as consumers"
+        ],
+        "correctAnswer": "Users are represented by both producers as well as consumers"
+    },
+    {
+        "qnumber": 140,
+        "question": "In platform-base business models, high value interactions are not built through:",
+        "answers": [
+            "attracting attention",
+            "collecting and sharing high-quality data",
+            "building a reputation",
+            "enabling monetization"
+        ],
+        "correctAnswer": "collecting and sharing high-quality data"
+    },
+    {
+        "qnumber": 141,
+        "question": "G Suite is an example of",
+        "answers": [
+            "Product dematerialization",
+            "Data-driven business model",
+            "Platform business model",
+            "Tangible product"
+        ],
+        "correctAnswer": "Product dematerialization"
+    },
+    {
+        "qnumber": 142,
+        "question": "Facebook is an example of",
+        "answers": [
+            "Platform business model",
+            "Data-driven business model",
+            "Direct data monetization",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 143,
+        "question": "Maintain user interests in a platform means:",
+        "answers": [
+            "encouraging participants to use the service",
+            "increasing the number of passive participants",
+            "increasing the number of prosumer participants",
+            "increasing the total number of participants"
+        ],
+        "correctAnswer": "encouraging participants to use the service"
+    },
+    {
+        "qnumber": 144,
+        "question": "In order to build and maintain a good reputation, platform businesses:",
+        "answers": [
+            "Must adopt data security measures",
+            "Must implement a clear privacy and data management policy",
+            "Must verify the identity of participants within the ecosystem",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 145,
+        "question": "In order to monetize the business without inhibiting the continuous growth of the network effect, platform companies should:",
+        "answers": [
+            "Charge for the value the platform creates for users",
+            "Charge for users access",
+            "Charge for users utilization of the platform",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "Charge for the value the platform creates for users"
+    },
+    {
+        "qnumber": 146,
+        "question": "By Network-Marketplace-Community Layer, we mean:",
+        "answers": [
+            "Value creation within the participants",
+            "High-quality data collection within the network",
+            "Digital infrastructure for value creation",
+            "Cyber resilience within the network"
+        ],
+        "correctAnswer": "Value creation within the participants"
+    },
+    {
+        "qnumber": 147,
+        "question": "By Infrastructure Layer, we mean:",
+        "answers": [
+            "Value creation within the participants",
+            "High-quality data collection within the network",
+            "Digital infrastructure for value creation",
+            "Cyber resilience within the network"
+        ],
+        "correctAnswer": "Digital infrastructure for value creation"
+    },
+    {
+        "qnumber": 148,
+        "question": "By Data Layer, we mean:",
+        "answers": [
+            "Value creation within the participants",
+            "High-quality data collection within the network",
+            "Digital infrastructure for value creation",
+            "Cyber resilience within the network"
+        ],
+        "correctAnswer": "High-quality data collection within the network"
+    },
+    {
+        "qnumber": 149,
+        "question": "What is the principal asset which characterized digital ecosystems?",
+        "answers": [
+            "Internet connection",
+            "Technological advancements",
+            "Data",
+            "Artificial intelligence"
+        ],
+        "correctAnswer": "Data"
+    },
+    {
+        "qnumber": 150,
+        "question": "What kind of business model introduces the concept of prosumer?",
+        "answers": [
+            "Smart factory business model",
+            "Servitization business model",
+            "Data confederation business model",
+            "Data-driven business model"
+        ],
+        "correctAnswer": "Data confederation business model"
+    },
+    {
+        "qnumber": 151,
+        "question": "The mass production of high customized products is called:",
+        "answers": [
+            "Personalization",
+            "Mass customization",
+            "Mass personalization",
+            "Customization"
+        ],
+        "correctAnswer": "Mass customization"
+    },
+    {
+        "qnumber": 152,
+        "question": "The connection between platform-based businesses and their users can be described as:",
+        "answers": [
+            "Users contribute data providing relevant information to improve user experience",
+            "Platforms contribute data providing relevant information to improve user experience",
+            "Users contribute money to improve the platform business model",
+            "Platforms sell their product to users, improving user experience"
+        ],
+        "correctAnswer": "Users contribute data providing relevant information to improve user experience"
+    },
+    {
+        "qnumber": 153,
+        "question": "What company represents an example of data confederation business model?",
+        "answers": [
+            "Facebook",
+            "Amazon go.",
+            "Aircraft",
+            "TripAdvisor"
+        ],
+        "correctAnswer": "TripAdvisor"
+    },
+    {
+        "qnumber": 154,
+        "question": "The platform social network business model, like Facebook, monetizes through:",
+        "answers": [
+            "Users\u2019 fees",
+            "Advertisers\u2019 posts",
+            "User\u2019s data",
+            "Both advertisers\u2019 posts and users data"
+        ],
+        "correctAnswer": "Both advertisers\u2019 posts and users data"
+    },
+    {
+        "qnumber": 155,
+        "question": "What are the forms of exchange in the platform businesses:",
+        "answers": [
+            "Information and currency",
+            "Good/services",
+            "Currency and good/services",
+            "Information, good/services, and social currency"
+        ],
+        "correctAnswer": "Information, good/services, and social currency"
+    },
+    {
+        "qnumber": 156,
+        "question": "Airbnb is an example of:",
+        "answers": [
+            "Marketplace platform business model",
+            "Data-confederation business model",
+            "Social-network business model",
+            "Phygital operating model"
+        ],
+        "correctAnswer": "Marketplace platform business model"
+    },
+    {
+        "qnumber": 157,
+        "question": "Which devices are not physical components of a cyber-physical system?",
+        "answers": [
+            "Processors",
+            "Sensors",
+            "Memory",
+            "Display"
+        ],
+        "correctAnswer": "Display"
+    },
+    {
+        "qnumber": 158,
+        "question": "A digital twin:",
+        "answers": [
+            "Consists of physical representation serving as the real-time counterpart of a physical object or process.",
+            "Consist of virtual representation serving as the real-time digital counterpart of a physical object or process",
+            "Consist of virtual representation serving as the real-time digital counterpart of another virtual object or process",
+            "Consist of physical representation serving as the real-time physical counterpart of a virtual object or process"
+        ],
+        "correctAnswer": "Consists of a virtual representation serving as the real-time digital counterpart of a physical object or process."
+    },
+    {
+        "qnumber": 159,
+        "question": "Digital twins:",
+        "answers": [
+            "enable communication along the supply chain and allow organizations to build collaborative business networks",
+            "compare real and expected performances to develop predictive maintenance",
+            "simulate the behaviour of the physical device in order to prevent errors and support its implementation",
+            "all the answers are correct"
+        ],
+        "correctAnswer": "all the answers are correct"
+    },
+    {
+        "qnumber": 160,
+        "question": "Which feature doesn\u2019t describe production enabled by cyber-physical production system?",
+        "answers": [
+            "Flexible",
+            "Transparent",
+            "Decentralized",
+            "Automated"
+        ],
+        "correctAnswer": "Transparent"
+    },
+    {
+        "qnumber": 161,
+        "question": "Which technology of the following ones isn\u2019t going to support the phygital operating model?",
+        "answers": [
+            "Blockchain",
+            "Artificial intelligence",
+            "Internet of things",
+            "5G"
+        ],
+        "correctAnswer": "blockchain"
+    },
+    {
+        "qnumber": 162,
+        "question": "The implementation of smart factory business model give us the possibility of:",
+        "answers": [
+            "Optimizing resource utilization",
+            "Reducing the inventory",
+            "Increasing time-to-market",
+            "Increasing lead-time"
+        ],
+        "correctAnswer": "Optimizing resource utilization"
+    },
+    {
+        "qnumber": 163,
+        "question": "What of the following is not a smart factory characteristic:",
+        "answers": [
+            "Proactiveness",
+            "Intelligence",
+            "Connectedness",
+            "Transparency"
+        ],
+        "correctAnswer": "Intelligence"
+    },
+    {
+        "qnumber": 164,
+        "question": "What of the following is not a cyber-physical product characteristic:",
+        "answers": [
+            "Awareness",
+            "Intelligence",
+            "Connectedness",
+            "Transparency"
+        ],
+        "correctAnswer": "Transparency"
+    },
+    {
+        "qnumber": 165,
+        "question": "The smart factory business model:",
+        "answers": [
+            "Increases product price",
+            "Increases end-product quality",
+            "Increases necessity of employees",
+            "Increases organizational procedures complexity"
+        ],
+        "correctAnswer": "Increases end-product quality"
+    },
+    {
+        "qnumber": 166,
+        "question": "M2M communication means:",
+        "answers": [
+            "Man-to-machine communication.",
+            "Machine-to-machine communication",
+            "Machine-to-Man communication",
+            "Man-to-Man communication"
+        ],
+        "correctAnswer": "Machine-to-machine communication"
+    },
+    {
+        "qnumber": 167,
+        "question": "In industry 4.0, to establish future organizational competitiveness, manufacturers should shift:",
+        "answers": [
+            "From Interconnected supply chain to digital linear supply chain",
+            "From linear supply chain to a digital supply network",
+            "From interconnected supply chain to a digital supply network",
+            "None of the above"
+        ],
+        "correctAnswer": "From linear supply chain to a digital supply network"
+    },
+    {
+        "qnumber": 168,
+        "question": "Agility is referred to the organizational ability:",
+        "answers": [
+            "To thrive in a competitive environment of continuous and unanticipated change",
+            "To reduce the manufacturing lead time",
+            "To create rigid and stable collaboration structures",
+            "To deliver consumer customized solutions"
+        ],
+        "correctAnswer": "To thrive in a competitive environment of continuous and unanticipated change"
+    },
+    {
+        "qnumber": 169,
+        "question": "Hub and spoke business models accomplish:",
+        "answers": [
+            "Decentralization",
+            "Centralization",
+            "Externalization",
+            "None of the above"
+        ],
+        "correctAnswer": "Centralization"
+    },
+    {
+        "qnumber": 170,
+        "question": "Servitization business models reduce the gap between:",
+        "answers": [
+            "Physical and digital manufacturing",
+            "Externalization and control",
+            "Manufacturing products and providing services",
+            "Collecting data and extracting information"
+        ],
+        "correctAnswer": "Manufacturing products and providing services (CECI)"
+    },
+    {
+        "qnumber": 171,
+        "question": "What are the major drivers of Servitization business model?",
+        "answers": [
+            "Building durable customer relationship and reduce the production costs",
+            "Building a durable customers relationship, reducing environmental costs, extending existing services and optimizing asset utilization",
+            "Reducing environmental impact through circular economy.",
+            "Increasing efficiency through automation and machine learning."
+        ],
+        "correctAnswer": "Building a durable customers relationship, reducing environmental costs, extending existing\r\nservices and optimizing asset utilization"
+    },
+    {
+        "qnumber": 172,
+        "question": "What is the meaning of the Servitization paradox?",
+        "answers": [
+            "Difficulty to create incremental profits through services as a consequence of increased costs",
+            "Difficulty to create incremental profits through services as a consequence of reduced prices",
+            "Possibility to create incremental profits through services as a consequence of reduced costs.",
+            "Possibility to create incremental profits through services as a consequence of increased prices."
+        ],
+        "correctAnswer": "Difficulty to create incremental profits through services as a consequence of increased\r\ncosts"
+    },
+    {
+        "qnumber": 173,
+        "question": "What is the so-called service expansion double effect as a part of the Servitization business model?",
+        "answers": [
+            "Additional revenues and gain consumer loyalty",
+            "Additional revenues and lower costs",
+            "Additional revenues and lower investments",
+            "The same revenues and lower costs"
+        ],
+        "correctAnswer": "Additional revenues and gain consumer loyalty"
+    },
+    {
+        "qnumber": 174,
+        "question": "What is the meaning of product cannibalization of digital services?",
+        "answers": [
+            "The digital service integrate the good sale",
+            "The digital service substitute the good sale",
+            "The good sale substitute the digital service",
+            "None of the above"
+        ],
+        "correctAnswer": "The digital service substitute the good sale"
+    },
+    {
+        "qnumber": 175,
+        "question": "Which activity is not a core part of the value chain in a servitized enterprise?",
+        "answers": [
+            "Value offering monitoring",
+            "Problem identification",
+            "Value offering development",
+            "Customer identification"
+        ],
+        "correctAnswer": "Customer identification"
+    },
+    {
+        "qnumber": 176,
+        "question": "What is the definition of product availability business model?",
+        "answers": [
+            "Service providers own the product throughout its entire life cycle and transfer the good to consumers as a service",
+            "Users possess the availability of a determined digital good or service rather than the ownership of the product",
+            "A service solution is designed to be utilized in conjunction with the related dematerialized good",
+            "None of the above"
+        ],
+        "correctAnswer": "Users possess the availability of a determined digital good or service rather than the\r\nownership of the product"
+    },
+    {
+        "qnumber": 177,
+        "question": "What is the definition of product+service (add-on software) business model?",
+        "answers": [
+            "Service providers own the product throughout its entire life cycle and transfer the good to consumers as a service",
+            "Users possess the availability of a determined digital good or service rather than the ownership of the product",
+            "A service solution is designed to be utilized in conjunction with the related dematerialized good",
+            "None of the above"
+        ],
+        "correctAnswer": "A service solution is designed to be utilized in conjunction with the related dematerialized\r\ngood"
+    },
+    {
+        "qnumber": 178,
+        "question": "What is the definition of product-as-a-service business model?",
+        "answers": [
+            "Service providers own the product throughout its entire life cycle and transfer the good to consumers as a service",
+            "Users possess the availability of a determined digital good or service rather than the ownership of the product",
+            "A service solution is designed to be utilized in conjunction with the related dematerialized good",
+            "None of the above"
+        ],
+        "correctAnswer": "Service providers own the product throughout its entire life cycle and transfer the good to\r\nconsumers as a service"
+    },
+    {
+        "qnumber": 179,
+        "question": "Disney+ is a clear example of:",
+        "answers": [
+            "Product as a service",
+            "Product subscription",
+            "Product +service",
+            "Product ownership"
+        ],
+        "correctAnswer": "Product subscription"
+    },
+    {
+        "qnumber": 180,
+        "question": "Amazon Web Services represents an example of:",
+        "answers": [
+            "Hub and spoke business model",
+            "Product as a service business model",
+            "Product ownership business model",
+            "Product +service business model"
+        ],
+        "correctAnswer": "Product as a service business model"
+    },
+    {
+        "qnumber": 181,
+        "question": "What is the Servitization business model pricing strategy?",
+        "answers": [
+            "Cost-plus pricing",
+            "Value-based pricing",
+            "Mark-up pricing",
+            "Flexible pricing"
+        ],
+        "correctAnswer": "Value-based pricing"
+    },
+    {
+        "qnumber": 182,
+        "question": "Ford Motor Company represents an example of:",
+        "answers": [
+            "Hub and spoke business model",
+            "Product as a service business model",
+            "Product ownership business model",
+            "Product +service business model"
+        ],
+        "correctAnswer": "Product ownership business model"
+    },
+    {
+        "qnumber": 183,
+        "question": "In a smart factory, the ability to anticipate potential issues and challenges rather than reacting once complexities have occurred can be defined as:",
+        "answers": [
+            "Optimization",
+            "Transparency",
+            "Proactiveness",
+            "Agility"
+        ],
+        "correctAnswer": "Proactiveness"
+    },
+    {
+        "qnumber": 184,
+        "question": "In a smart factory, the possibility of an organization to view real-time notifications and alerts formulating accurate decisions is enabled by:",
+        "answers": [
+            "Transparency",
+            "Optimization",
+            "Connectedness",
+            "Agility"
+        ],
+        "correctAnswer": "Transparency"
+    },
+    {
+        "qnumber": 185,
+        "question": "In a smart factory, the possibility to execute operations with minimal manual intervention as well as human interaction through automation and synchronization is related to:",
+        "answers": [
+            "Transparency",
+            "Connectedness",
+            "Optimization",
+            "Agility"
+        ],
+        "correctAnswer": "Optimization"
+    },
+    {
+        "qnumber": 186,
+        "question": "The smart factory business model:",
+        "answers": [
+            "Use totally virtual systems",
+            "Use totally physical systems",
+            "Use both physical and virtual systems",
+            "Use only online systems"
+        ],
+        "correctAnswer": "Use both physical and virtual systems"
+    },
+    {
+        "qnumber": 187,
+        "question": "Amazon Go is a clear example of:",
+        "answers": [
+            "Servitization business model",
+            "Phygital Operating model",
+            "Platform business model",
+            "None of the above"
+        ],
+        "correctAnswer": "Phygital Operating model"
+    },
+    {
+        "qnumber": 188,
+        "question": "Data confederation business model allows to:",
+        "answers": [
+            "Obtaining scope economies",
+            "Obtain learning economies",
+            "Increase customer loyalty",
+            "All the options are correct"
+        ],
+        "correctAnswer": "All the options are correct"
+    },
+    {
+        "qnumber": 189,
+        "question": "Co-design is defined as :",
+        "answers": [
+            "The opportunity for customers to collaborate during the design process",
+            "The production using physical and digital features",
+            "The creation of a product from two collaborative companies",
+            "The creation of a product using a circular economy system"
+        ],
+        "correctAnswer": "The opportunity for customers to collaborate during the design process"
+    },
+    {
+        "qnumber": 190,
+        "question": "Big data analytics are used in the smart factory business model in the:",
+        "answers": [
+            "Design phase",
+            "Production phase",
+            "Monitoring phase",
+            "Along all the supply chain"
+        ],
+        "correctAnswer": "Along all the supply chain"
+    },
+    {
+        "qnumber": 191,
+        "question": "In digital manufacturing:",
+        "answers": [
+            "The distance separating the design of an object from its sale is melted",
+            "You don\u2019t have to worry about designing of the production plant",
+            "Creating the digital model of the object is not sufficient",
+            "Is all about 3D printing"
+        ],
+        "correctAnswer": "You don\u2019t have to worry about designing of the production plant"
+    },
+    {
+        "qnumber": 192,
+        "question": "Collaborative robots:",
+        "answers": [
+            "Are generally programmed to perform a repetitive operation",
+            "Don\u2019t have sensor mediated management",
+            "Make a combined use of sensors and artificial intelligence to perform repetitive tasks",
+            "Are able to think and act independently from the operator"
+        ],
+        "correctAnswer": "Are able to think and act independently from the operator"
+    },
+    {
+        "qnumber": 193,
+        "question": "Virtual reality:",
+        "answers": [
+            "Enhances or add computer-based elements to the real world",
+            "Isolates from the real world by creating a completely virtual one",
+            "Can be marker-based, marker-less, projection-based or superimposition-based",
+            "Brings digital components into a person\u2019s perception of the real world"
+        ],
+        "correctAnswer": "Isolates from the real world by creating a completely virtual one"
+    },
+    {
+        "qnumber": 194,
+        "question": "In Industrial Internet of Things (IIoT):",
+        "answers": [
+            "Sensors can be connected only to the machines:",
+            "Data are processed at the edge of the system, without the need for a cloud server",
+            "Information and communication technologies are integrated within the delivering system",
+            "Different devices are connected in order to communicate with each other as well as with a centralized unit of control"
+        ],
+        "correctAnswer": "Different devices are connected in order to communicate with each other as well as with a centralized unit of control"
+    },
+    {
+        "qnumber": 195,
+        "question": "Cloud computing:",
+        "answers": [
+            "Allows the use of online resources, like storage and computing",
+            "Is a decentralised hub that allows to process organizational data",
+            "Is constituted by two essential elements, a front end and a back end",
+            "Is not a major benefit of exploiting an online infrastructure"
+        ],
+        "correctAnswer": "Allows the use of online resources, like storage and computing"
+    },
+    {
+        "qnumber": 196,
+        "question": "Simulations:",
+        "answers": [
+            "Make possible to evaluate results of different scenarios and choose the optimal one",
+            "Are used to make virtual copies of physical objects",
+            "Are used to simulate a set of activities by changing its variables and understand the impact of changes",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 197,
+        "question": "In big data analytics:",
+        "answers": [
+            "Data-driven decision processes are structured mainly into two stages, data collection and processing",
+            "The data-drive decision process uses data as an input and information insights as an output",
+            "Companies has the opportunity to make decision-making process more subjective",
+            "There are four main analytical capabilities, which are descriptive, diagnostic, predictive and active"
+        ],
+        "correctAnswer": "The data-drive decision process uses data as an input and information insights as an output"
+    },
+    {
+        "qnumber": 198,
+        "question": "Cybersecurity:",
+        "answers": [
+            "Should firstly protect data and make the security system resilient",
+            "Guarantees protection of potential damage to hardware and software components",
+            "Guarantees protection from data breaches",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 199,
+        "question": "Structural horizontal integration:",
+        "answers": [
+            "Can\u2019t converge with vertical integration",
+            "Refers to the coordinated management of the production chain",
+            "Consists of the coordinated management of the product life cycle",
+            "None of the answers is correct"
+        ],
+        "correctAnswer": "Refers to the coordinated management of the production chain"
+    },
+    {
+        "qnumber": 200,
+        "question": "Vertical integration:",
+        "answers": [
+            "Can\u2019t converge with vertical integration",
+            "Refers to the coordinated management of the production chain",
+            "Consists of the coordinated management of the product life cycle",
+            "None of the answers is correct"
+        ],
+        "correctAnswer": "Consists of the coordinated management of the product life cycle"
+    },
+    {
+        "qnumber": 201,
+        "question": "Amazon success:",
+        "answers": [
+            "Is not due to its founder\u2019s strength and vision",
+            "Is associated with one specific strategic innovation",
+            "Is based on competitive positioning",
+            "Is based on competitive movement"
+        ],
+        "correctAnswer": "Is based on competitive movement"
+    },
+    {
+        "qnumber": 202,
+        "question": "Which of the four business models characterizing Industry 4.0 is involved in Amazon\u2019s value proposition?",
+        "answers": [
+            "Platform",
+            "Data-driven",
+            "Servitization",
+            "All of them"
+        ],
+        "correctAnswer": "All of them"
+    },
+    {
+        "qnumber": 203,
+        "question": "Which of the following tensions is Amazon able to exploit?",
+        "answers": [
+            "Knowledge exploration vs knowledge expansion",
+            "Tradition vs innovation",
+            "Artisan production vs industrial production",
+            "Data vs algorithms"
+        ],
+        "correctAnswer": "Artisan production vs industrial production"
+    },
+    {
+        "qnumber": 204,
+        "question": "Which of the following tensions is Amazon able to exploit?",
+        "answers": [
+            "Knowledge exploration vs knowledge expansion",
+            "Profit vs sustainability",
+            "Tradition vs innovation",
+            "Data vs algorithms"
+        ],
+        "correctAnswer": "Profit vs sustainability"
+    },
+    {
+        "qnumber": 205,
+        "question": "What does it mean that Amazon is an \u201calgorithmic business\u201d?",
+        "answers": [
+            "It is powered by data and algorithms and it learns from its mistakes and experiments",
+            "It is powered by blockchain, but it doesn\u2019t learn form experiments",
+            "It is powered by data and algorithms, but it doesn\u2019t learn from its mistakes",
+            "It is powered by blockchain and it learns from its mistakes and its experiments"
+        ],
+        "correctAnswer": "It is powered by data and algorithms and it learns from its mistakes and experiments"
+    },
+    {
+        "qnumber": 206,
+        "question": "What is the relationship between Amazon and open innovation?",
+        "answers": [
+            "Bezos has never been interested in open innovation",
+            "Bezos has always been interested about it, but has never resorted to open innovation",
+            "Amazon has started resorting to open innovation only in the last years, obtaining great results",
+            "Amazon has always been oriented to open innovation, albeit with logic and results that have evolved over time"
+        ],
+        "correctAnswer": "Amazon has always been oriented to open innovation, albeit with logic and results that have evolved over time"
+    },
+    {
+        "qnumber": 207,
+        "question": "Which digital business model(s) is (are) traceable to the step \u201cAmazon as an e-commerce and distributor\u201d?",
+        "answers": [
+            "Data-driven business model and platform business model",
+            "Platform business model",
+            "Smart factory business model",
+            "Data-driven business model and servitization business model"
+        ],
+        "correctAnswer": "Smart factory business model"
+    },
+    {
+        "qnumber": 208,
+        "question": "Which digital business model(s) is (are) traceable to the step \u201cAmazon as a marketplace platform\u201d?",
+        "answers": [
+            "Data-driven business model and platform business model",
+            "Platform business model",
+            "Smart factory business model",
+            "Data-driven business model and servitization business model"
+        ],
+        "correctAnswer": "Platform business model"
+    },
+    {
+        "qnumber": 209,
+        "question": "Which digital business model(s) is (are) traceable to the step \u201cAmazon as a service provider\u201d?",
+        "answers": [
+            "Data-driven business model and platform business model",
+            "Platform business model",
+            "Smart factory business model",
+            "Data-driven business model and servitization business model"
+        ],
+        "correctAnswer": "Data-driven business model and servitization business model"
+    },
+    {
+        "qnumber": 210,
+        "question": "Which digital business model(s) is (are) traceable to the step \u201cAmazon as a phygital product/store platform\u201d?",
+        "answers": [
+            "Data-driven business model and platform business model",
+            "Platform business model",
+            "Smart factory business model",
+            "Data-driven business model and servitization business model"
+        ],
+        "correctAnswer": "Data-driven business model and platform business model"
+    },
+    {
+        "qnumber": 211,
+        "question": "What does it mean for Amazon to be an \u201cunstore\u201d?",
+        "answers": [
+            "It is bound by the traditional rules or customs of doing business in the commerce sector",
+            "It is constrained by what is deemed best for the customer",
+            "It has limitless shelf space and offers standardized services for each customer",
+            "None of them"
+        ],
+        "correctAnswer": "It is constrained by what is deemed best for the customer"
+    },
+    {
+        "qnumber": 212,
+        "question": "Considering Amazon as an e-commerce and distributor:",
+        "answers": [
+            "There is an interconnection between its physical infrastructure and machines and their respective digital twins",
+            "Its network extends upstream, next to its suppliers and partners, but not downstream",
+            "There is an interconnection between its physical infrastructure and machines and its digital systems",
+            "Its network extends downstream, including transport logistic operators and customers, but not upstream"
+        ],
+        "correctAnswer": "There is an interconnection between its physical infrastructure and machines and its digital systems"
+    },
+    {
+        "qnumber": 213,
+        "question": "Considering Amazon as a marketplace platform, the possibility for third-party retailers to sell their products on Amazon.com:",
+        "answers": [
+            "Allowed Amazon to appear as the digital store that could offer the widest selection of products at the most affordable price",
+            "Reduced Amazon\u2019s product assortment because of substitution effect",
+            "Was clearly the right choice and Immediately generated excitement among buyers",
+            "Didn\u2019t involve competitors finalizing the sale in its place"
+        ],
+        "correctAnswer": "Allowed Amazon to appear as the digital store that could offer the widest selection of products at the most affordable pric"
+    },
+    {
+        "qnumber": 214,
+        "question": "Considering Amazon as a service provider, the introduction of Amazon Web Services (AWS):",
+        "answers": [
+            "Has made Amazon the technology partner for the successful development of a digital business ecosystem based on cloud computing",
+            "Allows Amazon to build strong and long-term relationships with customer",
+            "Has created a very profitable business model and has given Amazon a leading role in the emergence of colud computing technology",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "All the answers are correct"
+    },
+    {
+        "qnumber": 215,
+        "question": "Considering Amazon as a phygital product/store platform, the devices introduced by Amazon:",
+        "answers": [
+            "Enable a software add-on business model",
+            "Present a dual nature, digital-first and product-first",
+            "Generate value by the systemic integration of the product and service components",
+            "All the answers are correct"
+        ],
+        "correctAnswer": "Generate value by the systemic integration of the product and service components"
+    }
+]
 }
