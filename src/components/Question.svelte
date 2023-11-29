@@ -28,7 +28,7 @@
             {:else}
             <p class="font-bold text-red-600">Wrong</p>
                 {#if showCorrect}
-                <p class="p-1.5 rounded-md bg-base-300 italic max-w-1/2">{correctAnswer}</p>
+                <p class="p-1.5 rounded-md bg-base-300 italic md:text-right max-w-1/2">{correctAnswer}</p>
                 {:else}
                 <button class="btn btn-sm " on:click={() => showCorrect = true}>Show correct answer</button>
                 {/if}

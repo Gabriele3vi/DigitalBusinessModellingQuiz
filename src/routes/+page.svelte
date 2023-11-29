@@ -5,10 +5,12 @@
 
   export let data
 
-
   let questions = []
   let numRandomQuest = 15
   let buttonMsg = "Take the test"
+  let maxQ = 215
+  let minQ = 1
+  let errorMsg = ""
 
   //questo metodo ritorna una lista di interi random diversi di lunghezza data nel range [min, max]
   function getRandomIntSet(size, min, max){
@@ -29,7 +31,18 @@
   
   function start_test() {
     questions = []
-    let nums = getRandomIntSet(numRandomQuest, 0, data.questions.length - 1)
+    if ((maxQ - minQ +1) < numRandomQuest) {
+      errorMsg = "Range size must be bigger than the number of questions"
+      return
+    }
+
+    if (minQ < 0 || maxQ > 215) {
+      errorMsg = "Insert a valid range [1, 215]"
+      return
+    }
+
+    errorMsg = ""
+    let nums = getRandomIntSet(numRandomQuest, minQ - 1, maxQ - 1)
 
     for (let n of nums) {
       questions.push(data.questions[n])
@@ -44,13 +57,22 @@
   <h1 class="text-5xl font-bold text-center my-10">
       DBM test simulator
   </h1>
-  <div class="flex flex-col gap-y-2.5">
+  <div class="flex flex-col gap-y-2">
     <h2 class="text-3xl font-bold">Setup</h2>
     <div class="flex flex-row justify-between items-center">
       <label for="qnumber" class="">Choose the number of questions:</label>
       <input name="qnumber" type="number" min="1" max="30" step="1" bind:value={numRandomQuest} class="input input-bordered input-sm w-min max-w-xs" />
     </div>
-    <p class="text-sm"><span class="font-bold">NB:</span> anwers can be wrong</p>
+    <div class="divider m-0">and</div>
+    <div class="flex flex-row justify-between items-center">
+      <label for="qmin" class="">Choose the range*:</label>
+      <div class="flex flex-row gap-x-1.5">
+        <input name="qmin" type="number" min="1" max="215" step="1" bind:value={minQ} class="input input-bordered input-sm w-min max-w-xs" />
+        <p>-</p>
+        <input name="qmin" type="number" min="1" max="215" step="1" bind:value={maxQ} class="input input-bordered input-sm w-min max-w-xs" />
+      </div>
+    </div>
+
     <button class="btn" on:click={start_test}> 
       {#if started}
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -59,11 +81,15 @@
       {/if}
       {buttonMsg} 
     </button>
+    <p class="text-sm text-red-600 font-bold">{errorMsg}</p>
+    <p class="text-sm font-bold">*Questions have the same numbers as the file.</p>
+    <p class="text-sm font-bold">NB: answers can be wrong</p>
+
   </div>
   <h1 class="text-3xl font-bold">Questions</h1>
   <div class="flex flex-col gap-y-5">
     {#if !started}
-    <h3 class="text-center">Click the button to generate some questions</h3>
+    <h3 class="text-center">Click the button to get {numRandomQuest} random questions between n.{minQ} and n.{maxQ}</h3>
     {:else}
      {#each questions as q (q.qnumber)}
       <Question {...q}/>
