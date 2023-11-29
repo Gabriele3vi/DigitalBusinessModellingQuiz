@@ -7,6 +7,7 @@
     let id = qnumber * Math.random()
 
     if (givenAnswer == correctAnswer) console.log("correct")
+    let showCorrect = false
 </script>
 
 <div class="card bg-base-200 shadow-xl p-5 flex gap-y-3 ">
@@ -21,10 +22,17 @@
     </div>  
     {/each}
     {#if givenAnswer != ""}
-        {#if givenAnswer === correctAnswer}
+        <div class="flex md:flex-row flex-col md:justify-between items-center p-1 w-full gap-y-2 md:gap-x-5">
+            {#if givenAnswer.toLowerCase() === correctAnswer.toLowerCase()}
             <p class="font-bold text-green-600">Correct</p>
-        {:else}
+            {:else}
             <p class="font-bold text-red-600">Wrong</p>
-        {/if}
+                {#if showCorrect}
+                <p class="p-1.5 rounded-md bg-base-300 italic max-w-1/2">{correctAnswer}</p>
+                {:else}
+                <button class="btn btn-sm " on:click={() => showCorrect = true}>Show correct answer</button>
+                {/if}
+            {/if}
+        </div>
     {/if}
 </div>

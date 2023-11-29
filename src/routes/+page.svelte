@@ -40,8 +40,8 @@
 </script>
 
 
-<div class="flex flex-col gap-y-2.5">
-  <h1 class="text-5xl font-bold text-center mb-12">
+<div class="flex flex-col gap-y-2.5 h-full">
+  <h1 class="text-5xl font-bold text-center my-10">
       DBM test simulator
   </h1>
   <div class="flex flex-col gap-y-2.5">
@@ -63,12 +63,11 @@
   <h1 class="text-3xl font-bold">Questions</h1>
   <div class="flex flex-col gap-y-5">
     {#if !started}
-    <h3>Click the button to generate some questions</h3>
+    <h3 class="text-center">Click the button to generate some questions</h3>
     {:else}
      {#each questions as q (q.qnumber)}
       <Question {...q}/>
      {/each}
-
     {/if}
   </div>
 </div>

@@ -1042,7 +1042,7 @@
             "machines exhibit  intelligence, as characterized by sufficient computational resources and algorithms defining a learning process",
             "its effectiveness relies thoroughly on the clarity of rules and definitions"
         ],
-        "correctAnswer": "machines exhibit intelligence, as characterized by sufficient computational resources and"
+        "correctAnswer": "machines exhibit  intelligence, as characterized by sufficient computational resources and algorithms defining a learning process"
     },
     {
         "qnumber": 96,
@@ -1192,9 +1192,9 @@
         "question": "Which of the following does not refer to customer intimacy?",
         "answers": [
             "Increased product range and customization",
-            "complementary goods",
-            "data testing",
-            "customer engagement"
+            "Complementary goods",
+            "Data testing",
+            "Customer Engagement"
         ],
         "correctAnswer": "Data testing"
     },
