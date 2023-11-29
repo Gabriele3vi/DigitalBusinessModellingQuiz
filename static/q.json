@@ -492,7 +492,7 @@
             "Possibility to enable the use of physical infrastructures and immediately scalable software applications",
             "Increase in data sharing between sites and organizational boundaries"
         ],
-        "correctAnswer": "Reduction in the cost for the use of physical infrastructures making them infrastructure as- a-service (IaaS)"
+        "correctAnswer": "Reduction in the cost for the use of physical infrastructures making them infrastructure as-a-service (IaaS)"
     },
     {
         "qnumber": 46,
@@ -1867,7 +1867,7 @@
             "Manufacturing products and providing services",
             "Collecting data and extracting information"
         ],
-        "correctAnswer": "Manufacturing products and providing services (CECI)"
+        "correctAnswer": "Manufacturing products and providing services"
     },
     {
         "qnumber": 171,
@@ -1933,7 +1933,7 @@
             "A service solution is designed to be utilized in conjunction with the related dematerialized good",
             "None of the above"
         ],
-        "correctAnswer": "Users possess the availability of a determined digital good or service rather than the\r\nownership of the product"
+        "correctAnswer": "Users possess the availability of a determined digital good or service rather than the ownership of the product"
     },
     {
         "qnumber": 177,
@@ -1955,7 +1955,7 @@
             "A service solution is designed to be utilized in conjunction with the related dematerialized good",
             "None of the above"
         ],
-        "correctAnswer": "Service providers own the product throughout its entire life cycle and transfer the good to\r\nconsumers as a service"
+        "correctAnswer": "Service providers own the product throughout its entire life cycle and transfer the good to consumers as a service"
     },
     {
         "qnumber": 179,
