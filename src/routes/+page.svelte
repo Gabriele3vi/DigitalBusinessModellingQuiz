@@ -6,7 +6,7 @@
   export let data
 
   let questions = []
-  let numRandomQuest = 15
+  let numRandomQuest = 30
   let buttonMsg = "Take the test"
   let maxQ = 215
   let minQ = 1
@@ -69,7 +69,7 @@
     </div>
     <div class="divider m-0">and</div>
     <div class="flex flex-row justify-between items-center">
-      <label for="qmin" class="">Choose the range*:</label>
+      <label for="qmin" class="">Choose the range:*</label>
       <div class="flex flex-row gap-x-1.5">
         <input name="qmin" type="number" min="1" max="215" step="1" bind:value={minQ} class="input input-bordered input-sm w-min max-w-xs" />
         <p>-</p>
@@ -87,7 +87,7 @@
     </button>
     <p class="text-sm text-red-600 font-bold">{errorMsg}</p>
     <p class="text-sm font-bold">*Questions have the same numbers as the file.</p>
-    <p class="text-sm font-bold">NB: answers can be wrong</p>
+    <p class="text-sm font-bold">NB: answers may be wrong. If you find one, please send it in the whatsapp group</p>
 
   </div>
   <h1 class="text-3xl font-bold">Test</h1>
@@ -96,6 +96,7 @@
     <h3 class="text-center italic">Click the button to get {numRandomQuest} random questions between n.{minQ} and n.{maxQ}</h3>
     
     {:else}
+    <!-- q.number * Math.random() is needed to force svelte to not recycle components-->
      {#each questions as q (q.qnumber * Math.random())}
       <Question {...q}/>
      {/each}
