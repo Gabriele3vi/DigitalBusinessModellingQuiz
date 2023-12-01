@@ -1526,7 +1526,7 @@
             "Users are represented by both producers as well as consumers",
             "Participants act as producers as well as consumers"
         ],
-        "correctAnswer": "Users are represented by both producers as well as consumers"
+        "correctAnswer": "Participants act as producers as well as consumers"
     },
     {
         "qnumber": 140,
@@ -1889,7 +1889,7 @@
             "Possibility to create incremental profits through services as a consequence of reduced costs.",
             "Possibility to create incremental profits through services as a consequence of increased prices."
         ],
-        "correctAnswer": "Difficulty to create incremental profits through services as a consequence of increased\r\ncosts"
+        "correctAnswer": "Difficulty to create incremental profits through services as a consequence of increased costs"
     },
     {
         "qnumber": 173,
