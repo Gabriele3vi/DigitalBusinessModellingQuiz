@@ -6,7 +6,6 @@
     export let correctAnswer;
 
     let givenAnswer = ""
-    
     answers = shuffle(answers)
 
     if (givenAnswer == correctAnswer) console.log("correct")
