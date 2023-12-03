@@ -60,7 +60,10 @@
   }
 
   function searchQuestions() {
-    if (!qToSearch) {
+    
+    questionsAnswer = []
+    console.log(/[0-9]+(,\s*[0-9]+)+/.test(qToSearch) )
+    if (!/[0-9]+(,\s*[0-9]+)+/.test(qToSearch) || !qToSearch) {
       errorSearchMsg = "Insert a number"
       return
     }
@@ -71,15 +74,18 @@
     for (let i of qIndexes){
       try {
         i = parseInt(i.trim())
+        
+        if (i < 1 || i > 215) continue
+
+        currentAnswers.push(data.questions[i - 1])
       } catch (error) {
         errorSearchMsg = "you didn't insered a number"
-        
+        return
       }
       
-      if (i < 1 || i > 215)
-        continue
 
-      currentAnswers.push(data.questions[i - 1])
+
+      
     }
 
     if (currentAnswers.length == 0) {
@@ -104,7 +110,7 @@
       </svg>        
     <h2 class="text-3xl font-bold">Look for specific questions</h2>
     </div>
-    <p>Type the number of questions separated by a comma to search specific questions.</p>
+    <p>Type the number separated by a comma to search specific questions.</p>
     <div class="join">
       <input class="input input-bordered join-item w-full" placeholder="Ex. 4, 8, 15, 16, 23, 42" bind:value={qToSearch}/>
       <button class="btn join-item rounded-r-full" on:click={searchQuestions}>
@@ -141,7 +147,7 @@
     
     <div class="flex flex-row gap-x-1.5 items-center">
     <p>Is the simulator helpful for you? </p>
-    <a class="font-medium italic flex flex-row items-center gap-x-1.5" href="https://www.paypal.com/paypalme/my/settings?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3RyYW5zZmVyL2hvbWVwYWdlL3JlcXVlc3QmY2FuY2VsVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3RyYW5zZmVyL2hvbWVwYWdlL3JlcXVlc3Q="> Offer me a coffee!
+    <a class="font-medium italic flex flex-row items-center gap-x-1.5" href="https://www.paypal.com/paypalme/Gabriele3vi"> Offer me a coffee!
       <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3" viewBox="0 0 512 512">
         <path stroke="#0000FF" d="M432 320H400a16 16 0 0 0 -16 16V448H64V128H208a16 16 0 0 0 16-16V80a16 16 0 0 0 -16-16H48A48 48 0 0 0 0 112V464a48 48 0 0 0 48 48H400a48 48 0 0 0 48-48V336A16 16 0 0 0 432 320zM488 0h-128c-21.4 0-32.1 25.9-17 41l35.7 35.7L135 320.4a24 24 0 0 0 0 34L157.7 377a24 24 0 0 0 34 0L435.3 133.3 471 169c15 15 41 4.5 41-17V24A24 24 0 0 0 488 0z"/>
       </svg>
