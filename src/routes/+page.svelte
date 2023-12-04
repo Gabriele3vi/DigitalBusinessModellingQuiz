@@ -62,8 +62,7 @@
   function searchQuestions() {
     
     questionsAnswer = []
-    console.log(/[0-9]+(,\s*[0-9]+)+/.test(qToSearch) )
-    if (!/[0-9]+(,\s*[0-9]+)+/.test(qToSearch) || !qToSearch) {
+    if (!qToSearch) {
       errorSearchMsg = "Insert a number"
       return
     }
