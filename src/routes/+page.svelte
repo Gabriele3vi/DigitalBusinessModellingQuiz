@@ -57,6 +57,14 @@
     started = true
 
     buttonMsg = "Change questions"
+
+    let testEl = document.getElementById('test')
+    
+    testEl.scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+
+    });
   }
 
   function searchQuestions() {
@@ -81,10 +89,7 @@
         errorSearchMsg = "you didn't insered a number"
         return
       }
-      
-
-
-      
+    
     }
 
     if (currentAnswers.length == 0) {
@@ -104,7 +109,7 @@
   </h1>
   <div class="flex flex-col gap-y-2">
     <div class="flex flex-row gap-x-2.5 items-center">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-7 h-7">
         <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
       </svg>        
     <h2 class="text-3xl font-bold">Look for specific questions</h2>
@@ -181,7 +186,7 @@
     <p class="text-sm font-bold">NB 2: Answers may be wrong. If you find one, please send it in the whatsapp group</p>
 
   </div>
-  <h1 class="text-2xl font-bold">Test</h1>
+  <h1 class="text-2xl font-bold" id="test">Test</h1>
   <div class="flex flex-col gap-y-5">
     {#if !started}
     <h3 class="text-center italic">Click the button to get {numRandomQuest} random questions between n.{minQ} and n.{maxQ}</h3>
@@ -194,3 +199,4 @@
     {/if}
   </div>
 </div>
+
