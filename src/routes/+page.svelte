@@ -177,6 +177,7 @@
     </button>
     <p class="text-sm text-red-600 font-bold">{errorMsg}</p>
     <p class="text-sm font-bold">*Questions have the same numbers as the file.</p>
+    <p class="text-sm font-bold">NB: Answers are updated up to the correction of 5/12</p>
     <p class="text-sm font-bold">NB: answers may be wrong. If you find one, please send it in the whatsapp group</p>
 
   </div>
