@@ -294,7 +294,7 @@
             "Reduction in the number of items in stock (elimination of components for products, self-production of some components)",
             "Increase in freedom in product design by fostering individual creativity and the birth of new ideas"
         ],
-        "correctAnswer": "Reduction in the number of items in stock (elimination of components for products, selfproduction of some components)"
+        "correctAnswer": "Reduction in the number of items in stock (elimination of components for products, self-production of some components)"
     },
     {
         "qnumber": 28,
@@ -371,7 +371,7 @@
             "Reduction in repair times through guided maintenance procedures",
             "Opportunity to enable the possibility of making aesthetic and functional product tests with customers"
         ],
-        "correctAnswer": "Opportunity to enable the possibility of making aesthetic and functional product tests with\ncustomers"
+        "correctAnswer": "Opportunity to enable the possibility of making aesthetic and functional product tests with customers"
     },
     {
         "qnumber": 35,
@@ -404,7 +404,7 @@
             "Reduction repair times through guided maintenance procedures",
             "Increase in the customer experience"
         ],
-        "correctAnswer": "Opportunity to enable new forms of human-to-machine interaction in production and\nmaintenance processes"
+        "correctAnswer": "Opportunity to enable new forms of human-to-machine interaction in production and maintenance processes"
     },
     {
         "qnumber": 38,
@@ -437,7 +437,7 @@
             "Increase in communication and interaction between intelligent products (through decision-making capabilities) and centralized controlling units",
             "Reduction in the role of intermediaries in the relationship with the customer"
         ],
-        "correctAnswer": "Increase in communication and interaction between intelligent products (through decision- making capabilities) and centralized controlling units"
+        "correctAnswer": "Increase in communication and interaction between intelligent products (through decision-making capabilities) and centralized controlling units"
     },
     {
         "qnumber": 41,
@@ -492,7 +492,7 @@
             "Possibility to enable the use of physical infrastructures and immediately scalable software applications",
             "Increase in data sharing between sites and organizational boundaries"
         ],
-        "correctAnswer": "Reduction in the cost for the use of physical infrastructures making them infrastructure as- a-service (IaaS)"
+        "correctAnswer": "Reduction in the cost for the use of physical infrastructures making them infrastructure as-a-service (IaaS)"
     },
     {
         "qnumber": 46,
@@ -1039,10 +1039,10 @@
         "answers": [
             "machines have to be equipped with rules of logical reasoning",
             "machines have to be equipped with real world conditions",
-            "machines exhibit  intelligence, as characterized by sufficient computational resources and algorithms defining a learning process",
+            "machines exhibit intelligence, as characterized by sufficient computational resources and algorithms defining a learning process",
             "its effectiveness relies thoroughly on the clarity of rules and definitions"
         ],
-        "correctAnswer": "machines exhibit intelligence, as characterized by sufficient computational resources and"
+        "correctAnswer": "machines exhibit intelligence, as characterized by sufficient computational resources and algorithms defining a learning process"
     },
     {
         "qnumber": 96,
@@ -1180,10 +1180,10 @@
         "qnumber": 108,
         "question": "The business model building block which is less impacted by data-driven business models is:",
         "answers": [
-            "resources",
-            "customers,",
-            "internal processes",
-            "society"
+            "Resources",
+            "Customers,",
+            "Internal processes",
+            "Society"
         ],
         "correctAnswer": "Society"
     },
@@ -1192,9 +1192,9 @@
         "question": "Which of the following does not refer to customer intimacy?",
         "answers": [
             "Increased product range and customization",
-            "complementary goods",
-            "data testing",
-            "customer engagement"
+            "Complementary goods",
+            "Data testing",
+            "Customer engagement"
         ],
         "correctAnswer": "Data testing"
     },
@@ -1735,7 +1735,7 @@
             "Consist of virtual representation serving as the real-time digital counterpart of another virtual object or process",
             "Consist of physical representation serving as the real-time physical counterpart of a virtual object or process"
         ],
-        "correctAnswer": "Consists of a virtual representation serving as the real-time digital counterpart of a physical object or process."
+        "correctAnswer": "Consist of virtual representation serving as the real-time digital counterpart of a physical object or process"
     },
     {
         "qnumber": 159,
@@ -1768,7 +1768,7 @@
             "Internet of things",
             "5G"
         ],
-        "correctAnswer": "blockchain"
+        "correctAnswer": "Blockchain"
     },
     {
         "qnumber": 162,
@@ -1867,7 +1867,7 @@
             "Manufacturing products and providing services",
             "Collecting data and extracting information"
         ],
-        "correctAnswer": "Manufacturing products and providing services (CECI)"
+        "correctAnswer": "Manufacturing products and providing services"
     },
     {
         "qnumber": 171,
@@ -1878,7 +1878,7 @@
             "Reducing environmental impact through circular economy.",
             "Increasing efficiency through automation and machine learning."
         ],
-        "correctAnswer": "Building a durable customers relationship, reducing environmental costs, extending existing\nservices and optimizing asset utilization"
+        "correctAnswer": "Building a durable customers relationship, reducing environmental costs, extending existing services and optimizing asset utilization"
     },
     {
         "qnumber": 172,
@@ -1889,7 +1889,7 @@
             "Possibility to create incremental profits through services as a consequence of reduced costs.",
             "Possibility to create incremental profits through services as a consequence of increased prices."
         ],
-        "correctAnswer": "Difficulty to create incremental profits through services as a consequence of increased\ncosts"
+        "correctAnswer": "Difficulty to create incremental profits through services as a consequence of increased costs"
     },
     {
         "qnumber": 173,
@@ -1933,7 +1933,7 @@
             "A service solution is designed to be utilized in conjunction with the related dematerialized good",
             "None of the above"
         ],
-        "correctAnswer": "Users possess the availability of a determined digital good or service rather than the\nownership of the product"
+        "correctAnswer": "Users possess the availability of a determined digital good or service rather than the ownership of the product"
     },
     {
         "qnumber": 177,
@@ -1944,7 +1944,7 @@
             "A service solution is designed to be utilized in conjunction with the related dematerialized good",
             "None of the above"
         ],
-        "correctAnswer": "A service solution is designed to be utilized in conjunction with the related dematerialized\ngood"
+        "correctAnswer": "A service solution is designed to be utilized in conjunction with the related dematerialized good"
     },
     {
         "qnumber": 178,
@@ -1955,7 +1955,7 @@
             "A service solution is designed to be utilized in conjunction with the related dematerialized good",
             "None of the above"
         ],
-        "correctAnswer": "Service providers own the product throughout its entire life cycle and transfer the good to\nconsumers as a service"
+        "correctAnswer": "Service providers own the product throughout its entire life cycle and transfer the good to consumers as a service"
     },
     {
         "qnumber": 179,
