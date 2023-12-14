@@ -181,6 +181,7 @@
       <button class="btn max-md:w-full" on:click={() => { rangeQuestions(121,150)}}>121 - 150</button>
       <button class="btn max-md:w-full" on:click={() => { rangeQuestions(151,180)}}>151 - 180</button>
       <button class="btn max-md:w-full" on:click={() => { rangeQuestions(181,215)}}>181 - 215</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(1,215)}}>All</button>
     </div>
     <div class="flex flex-row justify-between items-center">
       <label for="qnumber" class="">Choose the number of questions:</label>
