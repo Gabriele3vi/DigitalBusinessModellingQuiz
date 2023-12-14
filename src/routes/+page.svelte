@@ -63,12 +63,12 @@
   }
 
   function searchQuestions() {
-    
     questionsAnswer = []
     if (!qToSearch) {
       errorSearchMsg = "Insert a number"
       return
     }
+
     qToSearch = qToSearch.trim()
     let currentAnswers = []
     let qIndexes = qToSearch.split(",")
@@ -94,6 +94,15 @@
 
     errorSearchMsg = ""
     questionsAnswer = currentAnswers
+  }
+
+  function rangeQuestions(min, max){
+    minQ = min
+    maxQ = max
+
+    if (minQ === 25 && maxQ === 62) numRandomQuest = 37
+    else if (minQ === 181) numRandomQuest = (max - min)
+    else numRandomQuest = 30
   }
 </script>
 
@@ -162,6 +171,17 @@
     </a>
     </div>
     <h2 class="text-2xl font-bold">Setup</h2>
+    <p>If you want, these are predefined ranges</p>
+    <div class="flex flex-col md:flex-row gap-y-2.5 md:gap-x-2.5 justify-center items-center">
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(25, 62)}}>All "Which operational..." questions</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(1, 30)}}>1 - 30</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(31, 60)}}>31 - 60</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(61,90)}}>61 - 90</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(91, 120)}}>91 - 120</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(121,150)}}>121 - 150</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(151,180)}}>151 - 180</button>
+      <button class="btn max-md:w-full" on:click={() => { rangeQuestions(181,215)}}>181 - 215</button>
+    </div>
     <div class="flex flex-row justify-between items-center">
       <label for="qnumber" class="">Choose the number of questions:</label>
       <input name="qnumber" type="number" min="1" max="30" step="1" bind:value={numRandomQuest} class="input input-bordered input-sm w-min max-w-xs" />
